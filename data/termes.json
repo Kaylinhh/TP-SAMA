@@ -1,0 +1,1623 @@
+{
+ "version": 1,
+ "categories": [
+  {
+   "id": "prefixe",
+   "label": "Préfixes"
+  },
+  {
+   "id": "racine",
+   "label": "Racines"
+  },
+  {
+   "id": "suffixe",
+   "label": "Suffixes"
+  },
+  {
+   "id": "vocabulaire",
+   "label": "Vocabulaire"
+  }
+ ],
+ "entries": [
+  {
+   "id": "a-an",
+   "cat": "prefixe",
+   "terme": "A-/An-",
+   "sens": "Absence de, privation, manque de",
+   "exemples": [
+    {
+     "mot": "Aphasie",
+     "def": "Perte partielle ou totale de la capacité à parler, comprendre, lire ou écrire"
+    },
+    {
+     "mot": "Apnée",
+     "def": "Arrêt temporaire de la respiration"
+    },
+    {
+     "mot": "Anorexie",
+     "def": "Perte ou diminution de l'appétit"
+    }
+   ]
+  },
+  {
+   "id": "acro",
+   "cat": "racine",
+   "terme": "Acro-",
+   "sens": "Extrémité",
+   "exemples": [
+    {
+     "mot": "Acromégalie",
+     "def": "Maladie hormonale causée par une tumeur bénigne de l'hypophyse, provoquant une production excessive d'hormone de croissance"
+    },
+    {
+     "mot": "Acropathie",
+     "def": "Affection/maladie touchant les extrémités du corps"
+    }
+   ]
+  },
+  {
+   "id": "allo",
+   "cat": "prefixe",
+   "terme": "Allo-",
+   "sens": "Autre",
+   "exemples": [
+    {
+     "mot": "Allopathie",
+     "def": "Médecine classique/conventionnelle qui utilise des traitements ayant des effets contraires aux symptômes de la maladie"
+    }
+   ],
+   "syn": "autre"
+  },
+  {
+   "id": "ante",
+   "cat": "prefixe",
+   "terme": "Anté-",
+   "sens": "En avant",
+   "exemples": [
+    {
+     "mot": "Antéprandial",
+     "def": "Qui se déroule ou se prend avant un repas"
+    },
+    {
+     "mot": "Antéflexion",
+     "def": "Flexion/inclinaison d'un organe ou d'un membre vers l'avant (le plus souvent l'utérus, l'épaule ou le tronc)"
+    }
+   ]
+  },
+  {
+   "id": "anti",
+   "cat": "prefixe",
+   "terme": "Anti-",
+   "sens": "Contre, action contraire",
+   "exemples": [
+    {
+     "mot": "Antibiotique",
+     "def": "Médicament visant à détruire les bactéries ou à empêcher leur croissance"
+    },
+    {
+     "mot": "Anticorps",
+     "def": "Protéine produite par le système immunitaire pour détecter, neutraliser et éliminer les agents pathogènes"
+    }
+   ]
+  },
+  {
+   "id": "arthr",
+   "cat": "racine",
+   "terme": "Arthr-",
+   "sens": "Articulation",
+   "exemples": [
+    {
+     "mot": "Arthrose",
+     "def": "Maladie des articulations qui provoque la destruction du cartilage, la douleur et la raideur"
+    }
+   ]
+  },
+  {
+   "id": "auto",
+   "cat": "prefixe",
+   "terme": "Auto-",
+   "sens": "Soi-même",
+   "exemples": [
+    {
+     "mot": "Automédication",
+     "def": "Le fait de prendre un médicament de sa propre initiative, sans consulter un médecin au préalable"
+    },
+    {
+     "mot": "Autogreffe",
+     "def": "Intervention où le donneur et le receveur sont une seule et même personne"
+    }
+   ]
+  },
+  {
+   "id": "bi",
+   "cat": "prefixe",
+   "terme": "Bi-",
+   "sens": "Deux fois, deux",
+   "exemples": [
+    {
+     "mot": "Bifocal",
+     "def": "Désigne un verre de lunettes ou une lentille qui possède deux distances focales différentes, servant à corriger à la fois la vision de loin et de près"
+    }
+   ]
+  },
+  {
+   "id": "brachy",
+   "cat": "prefixe",
+   "terme": "Brachy-",
+   "sens": "Court, bref",
+   "exemples": [
+    {
+     "mot": "Brachypnée",
+     "def": "Respiration courte et lente"
+    },
+    {
+     "mot": "Brachyoesophage",
+     "def": "Œsophage trop court, qui entraîne la présence permanente d'une partie de l'estomac dans le thorax"
+    }
+   ]
+  },
+  {
+   "id": "brady",
+   "cat": "prefixe",
+   "terme": "Brady-",
+   "sens": "Lent",
+   "exemples": [
+    {
+     "mot": "Bradycardie",
+     "def": "Rythme du cœur plus lent que la normale"
+    },
+    {
+     "mot": "Bradykinésie",
+     "def": "Ralentissement anormal des mouvements volontaires et difficulté à les exécuter ou à les lancer, sans perte de force musculaire (souvent liée à la maladie de Parkinson)"
+    }
+   ]
+  },
+  {
+   "id": "cardio",
+   "cat": "racine",
+   "terme": "Cardio-",
+   "sens": "Cœur",
+   "exemples": [
+    {
+     "mot": "Cardiologie",
+     "def": "Spécialité médicale qui étudie et soigne les maladies du cœur et des vaisseaux"
+    },
+    {
+     "mot": "Tachycardie",
+     "def": "Rythme du cœur plus rapide que la normale"
+    }
+   ]
+  },
+  {
+   "id": "cata",
+   "cat": "prefixe",
+   "terme": "Cata-",
+   "sens": "En bas, chute, dégradation",
+   "exemples": [
+    {
+     "mot": "Catabolisme",
+     "def": "Phase au cours de laquelle les aliments assimilés sont transformés en énergie"
+    },
+    {
+     "mot": "Catatonie",
+     "def": "Trouble psychomoteur complexe caractérisé par une inertie physique, une absence de réaction à l'environnement et des anomalies du comportement"
+    }
+   ],
+   "syn": "destruction"
+  },
+  {
+   "id": "chondro",
+   "cat": "racine",
+   "terme": "Chondro-",
+   "sens": "Cartilage",
+   "exemples": [
+    {
+     "mot": "Chondroblaste",
+     "def": "Cellule à l'origine de la formation du cartilage"
+    }
+   ]
+  },
+  {
+   "id": "clini",
+   "cat": "racine",
+   "terme": "Clini-",
+   "sens": "Lit",
+   "exemples": [
+    {
+     "mot": "Clinique",
+     "def": "Lieu de prise en charge des patients"
+    }
+   ]
+  },
+  {
+   "id": "cyto",
+   "cat": "racine",
+   "terme": "Cyto-",
+   "sens": "Cellule",
+   "exemples": [
+    {
+     "mot": "Cytotoxique",
+     "def": "Substance ou une cellule qui détruit ou endommage les cellules de l'organisme (chimiothérapie)"
+    },
+    {
+     "mot": "Lymphocyte",
+     "def": "Cellule (type de globule blanc) qui joue un rôle clé dans le système immunitaire"
+    }
+   ]
+  },
+  {
+   "id": "derm",
+   "cat": "racine",
+   "terme": "Derm-",
+   "sens": "Peau",
+   "exemples": [
+    {
+     "mot": "Dermatose",
+     "def": "Maladie/affection de la peau et des muqueuses"
+    },
+    {
+     "mot": "Dermite",
+     "def": "Inflammation de la peau"
+    }
+   ]
+  },
+  {
+   "id": "dia",
+   "cat": "prefixe",
+   "terme": "Dia-",
+   "sens": "À travers",
+   "exemples": [
+    {
+     "mot": "Diapédèse",
+     "def": "Passage actif des globules blancs à travers la paroi des petits vaisseaux sanguins pour aller combattre une infection ou une inflammation dans les tissus"
+    }
+   ],
+   "syn": "travers"
+  },
+  {
+   "id": "diplo",
+   "cat": "prefixe",
+   "terme": "Diplo-",
+   "sens": "Double",
+   "exemples": [
+    {
+     "mot": "Diplopie",
+     "def": "Vision double"
+    }
+   ]
+  },
+  {
+   "id": "dys",
+   "cat": "prefixe",
+   "terme": "Dys-",
+   "sens": "Difficulté",
+   "exemples": [
+    {
+     "mot": "Dysphagie",
+     "def": "Difficulté ou gêne à avaler"
+    },
+    {
+     "mot": "Dyspnée",
+     "def": "Sensation subjective de gêne ou de difficulté respiratoire"
+    }
+   ]
+  },
+  {
+   "id": "ecto",
+   "cat": "prefixe",
+   "terme": "Ecto-",
+   "sens": "En dehors de",
+   "exemples": [
+    {
+     "mot": "Ectoderme",
+     "def": "Couche externe des cellules de l'embryon, aussi appelée ectoblaste, qui forme la peau et le système nerveux"
+    }
+   ],
+   "syn": "dehors"
+  },
+  {
+   "id": "en",
+   "cat": "prefixe",
+   "terme": "En-",
+   "sens": "Dans",
+   "exemples": [
+    {
+     "mot": "Encéphale",
+     "def": "Ensemble des organes du système nerveux central contenus dans le crâne (cerveau, cervelet, tronc cérébral)"
+    }
+   ],
+   "syn": "dedans"
+  },
+  {
+   "id": "endo",
+   "cat": "prefixe",
+   "terme": "Endo-",
+   "sens": "À l'intérieur",
+   "exemples": [
+    {
+     "mot": "Endocarde",
+     "def": "Fine membrane qui tapisse l'intérieur du cœur et les valves cardiaques"
+    },
+    {
+     "mot": "Endoscope",
+     "def": "Instrument médical en forme de tube, doté d'une source lumineuse et d'une caméra, utilisé pour explorer l'intérieur du corps"
+    }
+   ],
+   "syn": "dedans"
+  },
+  {
+   "id": "epi",
+   "cat": "prefixe",
+   "terme": "Épi-",
+   "sens": "Au-dessus",
+   "exemples": [
+    {
+     "mot": "Épicrânien",
+     "def": "Situé au-dessus du crâne"
+    },
+    {
+     "mot": "Épidurale",
+     "def": "Injection d'un anesthésiant au-dessus de la dure-mère, pour supprimer la douleur (notamment lors d'un accouchement)"
+    }
+   ]
+  },
+  {
+   "id": "etio",
+   "cat": "racine",
+   "terme": "Étio-",
+   "sens": "Cause",
+   "exemples": [
+    {
+     "mot": "Étiopathie",
+     "def": "Thérapie manuelle non conventionnelle qui cherche la cause des douleurs pour les soigner à la racine, sans utiliser de médicaments"
+    }
+   ]
+  },
+  {
+   "id": "eu",
+   "cat": "prefixe",
+   "terme": "Eu-",
+   "sens": "Bien, harmonieux, sans problème",
+   "exemples": [
+    {
+     "mot": "Eutocie",
+     "def": "Caractère normal, naturel et sans complications (accouchement)"
+    },
+    {
+     "mot": "Euphorie",
+     "def": "Sentiment de bien-être, de joie et d'optimisme"
+    }
+   ]
+  },
+  {
+   "id": "ex-exo",
+   "cat": "prefixe",
+   "terme": "Ex-/Exo-",
+   "sens": "Hors de",
+   "exemples": [
+    {
+     "mot": "Exérèse",
+     "def": "Intervention chirurgicale consistant à enlever une partie du corps, un organe entier, une tumeur ou une lésion anormale"
+    },
+    {
+     "mot": "Exophtalmie",
+     "def": "Saillie ou protrusion d'un ou des deux globes oculaires hors de l'orbite"
+    }
+   ],
+   "syn": "dehors"
+  },
+  {
+   "id": "extra",
+   "cat": "prefixe",
+   "terme": "Extra-",
+   "sens": "En dehors de",
+   "exemples": [
+    {
+     "mot": "Extracorporel",
+     "def": "Tout ce qui se déroule ou se trouve à l'extérieur du corps humain"
+    },
+    {
+     "mot": "Extra-utérin",
+     "def": "Ce qui se produit ou se développe en dehors de l'utérus"
+    }
+   ],
+   "syn": "dehors"
+  },
+  {
+   "id": "gastr",
+   "cat": "racine",
+   "terme": "Gastr-",
+   "sens": "Estomac",
+   "exemples": [
+    {
+     "mot": "Gastroentérologie",
+     "def": "Spécialité médicale qui étudie, diagnostique et soigne les maladies de l'appareil digestif"
+    }
+   ]
+  },
+  {
+   "id": "geno",
+   "cat": "racine",
+   "terme": "Géno-",
+   "sens": "Engendrer, créer, produire",
+   "exemples": [
+    {
+     "mot": "Génétique",
+     "def": "Science de l'hérédité qui étudie les gènes, l'ADN et la transmission des caractères d'une génération à l'autre"
+    }
+   ],
+   "syn": "engendrer"
+  },
+  {
+   "id": "gnoso",
+   "cat": "racine",
+   "terme": "Gnoso-",
+   "sens": "Connaissance",
+   "exemples": [
+    {
+     "mot": "Diagnostic",
+     "def": "Identification d'une maladie à partir de ses signes et symptômes"
+    },
+    {
+     "mot": "Pathognomonique",
+     "def": "Se dit d'un signe typique d'une maladie précise, qui suffit à la confirmer"
+    }
+   ]
+  },
+  {
+   "id": "hemi",
+   "cat": "prefixe",
+   "terme": "Hémi-",
+   "sens": "Demi, la moitié",
+   "exemples": [
+    {
+     "mot": "Hémiplégie",
+     "def": "Perte de mouvement d'un seul côté du corps"
+    },
+    {
+     "mot": "Hémiparésie",
+     "def": "Faiblesse musculaire partielle ou une diminution de la force qui touche la moitié gauche ou droite du corps (un seul côté)"
+    }
+   ]
+  },
+  {
+   "id": "hetero",
+   "cat": "prefixe",
+   "terme": "Hétéro-",
+   "sens": "Autre",
+   "exemples": [
+    {
+     "mot": "Hétérogène",
+     "def": "Ce qui est composé d'éléments de nature différentes"
+    },
+    {
+     "mot": "Hétérogreffe",
+     "def": "Une greffe ou une transplantation d'organe, de tissu ou de cellules dans laquelle le donneur et le receveur appartiennent à deux espèces différentes (tissu animal greffé sur humain)"
+    }
+   ],
+   "syn": "autre"
+  },
+  {
+   "id": "homeo-homo",
+   "cat": "prefixe",
+   "terme": "Homéo-/Homo-",
+   "sens": "Semblable, constant",
+   "exemples": [
+    {
+     "mot": "Homogène",
+     "def": "Un tout dont la structure, la composition ou les éléments sont semblables et uniformes en tout point"
+    },
+    {
+     "mot": "Homéostasie",
+     "def": "Capacité d'un organisme à maintenir son milieu intérieur stable (ex. taux de sucre, température)"
+    }
+   ],
+   "syn": "semblable"
+  },
+  {
+   "id": "hyper",
+   "cat": "prefixe",
+   "terme": "Hyper-",
+   "sens": "Au-dessus, en excès",
+   "exemples": [
+    {
+     "mot": "Hypertension",
+     "def": "Pression trop élevée du sang sur la paroi des artères (HTA)"
+    },
+    {
+     "mot": "Hyperesthésie",
+     "def": "Augmentation excessive de la sensibilité des cinq sens"
+    },
+    {
+     "mot": "Hyperglycémie",
+     "def": "Haut taux de sucre dans le sang"
+    }
+   ]
+  },
+  {
+   "id": "hypo",
+   "cat": "prefixe",
+   "terme": "Hypo-",
+   "sens": "Au-dessous, insuffisance",
+   "exemples": [
+    {
+     "mot": "Hypothermie",
+     "def": "Baisse de la température corporelle sous 35°"
+    },
+    {
+     "mot": "Hypoacousie",
+     "def": "Baisse partielle de l'audition, aussi appelée perte auditive"
+    },
+    {
+     "mot": "Hypotension",
+     "def": "Baisse de la pression artérielle"
+    }
+   ],
+   "syn": "moins"
+  },
+  {
+   "id": "inter",
+   "cat": "prefixe",
+   "terme": "Inter-",
+   "sens": "Entre",
+   "exemples": [
+    {
+     "mot": "Interauriculaire",
+     "def": "Qui se situe entre les deux oreillettes du cœur"
+    },
+    {
+     "mot": "Intercostale",
+     "def": "Situé entre deux côtes"
+    }
+   ]
+  },
+  {
+   "id": "intra",
+   "cat": "prefixe",
+   "terme": "Intra-",
+   "sens": "À l'intérieur",
+   "exemples": [
+    {
+     "mot": "Intramusculaire",
+     "def": "Administrer un médicament directement dans le muscle"
+    },
+    {
+     "mot": "Intraveineux",
+     "def": "Administrer un produit liquide directement dans la circulation sanguine"
+    }
+   ],
+   "syn": "dedans"
+  },
+  {
+   "id": "iso",
+   "cat": "prefixe",
+   "terme": "Iso-",
+   "sens": "Égalité, symétrie, similitude",
+   "exemples": [
+    {
+     "mot": "Isogroupe",
+     "def": "Même groupe sanguin"
+    },
+    {
+     "mot": "Isotherme",
+     "def": "Température constante ou égale"
+    }
+   ],
+   "syn": "semblable"
+  },
+  {
+   "id": "macro",
+   "cat": "prefixe",
+   "terme": "Macro-",
+   "sens": "Grand",
+   "exemples": [
+    {
+     "mot": "Macrocyte",
+     "def": "Globule rouge anormalement grand"
+    },
+    {
+     "mot": "Macroscopie",
+     "def": "Analyse d'un organe ou d'un tissu à l'œil nu"
+    }
+   ],
+   "syn": "grand"
+  },
+  {
+   "id": "mega-megalo",
+   "cat": "prefixe",
+   "terme": "Méga-/Mégalo-",
+   "sens": "Grand",
+   "exemples": [
+    {
+     "mot": "Mégacôlon",
+     "def": "Affection caractérisée par une dilatation anormale du côlon"
+    },
+    {
+     "mot": "Mégalomanie",
+     "def": "Trouble psychologique caractérisé par un désir excessif de grandeur ou de gloire"
+    }
+   ],
+   "syn": "grand"
+  },
+  {
+   "id": "micro",
+   "cat": "prefixe",
+   "terme": "Micro-",
+   "sens": "Petit",
+   "exemples": [
+    {
+     "mot": "Microcéphalie",
+     "def": "Tour de tête anormalement petit (malformation rare)"
+    }
+   ]
+  },
+  {
+   "id": "mneso-mnemo",
+   "cat": "racine",
+   "terme": "Mnéso-/Mnémo-",
+   "sens": "Mémoire",
+   "exemples": [
+    {
+     "mot": "Amnésique",
+     "def": "Perte totale ou partielle de la mémoire"
+    },
+    {
+     "mot": "Mnémotechnique",
+     "def": "Procédé qui aide à entraîner la mémoire"
+    }
+   ],
+   "syn": "memoire"
+  },
+  {
+   "id": "mono",
+   "cat": "prefixe",
+   "terme": "Mono-",
+   "sens": "Un seul, une fois",
+   "exemples": [
+    {
+     "mot": "Monoarthrite",
+     "def": "Inflammation d'une seule articulation"
+    },
+    {
+     "mot": "Monozygote",
+     "def": "Issu d'un seul œuf fécondé qui s'est divisé en deux (vrais jumeaux)"
+    }
+   ]
+  },
+  {
+   "id": "multi-pluri",
+   "cat": "prefixe",
+   "terme": "Multi-/Pluri-",
+   "sens": "Plusieurs, en grande quantité",
+   "exemples": [
+    {
+     "mot": "Multipare",
+     "def": "Femme ayant accouché plusieurs fois"
+    },
+    {
+     "mot": "Pluricellulaire",
+     "def": "Composé de plusieurs cellules"
+    }
+   ],
+   "syn": "plusieurs"
+  },
+  {
+   "id": "myo",
+   "cat": "racine",
+   "terme": "Myo-",
+   "sens": "Muscle",
+   "exemples": [
+    {
+     "mot": "Myocarde",
+     "def": "Muscle cardiaque qui pompe le sang (cœur)"
+    }
+   ]
+  },
+  {
+   "id": "neo",
+   "cat": "prefixe",
+   "terme": "Néo-",
+   "sens": "Nouveau",
+   "exemples": [
+    {
+     "mot": "Néonatal",
+     "def": "Nouveau-né"
+    },
+    {
+     "mot": "Néoplasie",
+     "def": "Croissance anormale"
+    }
+   ]
+  },
+  {
+   "id": "noso",
+   "cat": "racine",
+   "terme": "Noso-",
+   "sens": "Maladie",
+   "exemples": [
+    {
+     "mot": "Nosocomial",
+     "def": "Maladie contractée dans un établissement de soins"
+    },
+    {
+     "mot": "Nosographie",
+     "def": "Description méthodique et la classification des maladies"
+    }
+   ],
+   "syn": "maladie"
+  },
+  {
+   "id": "oligo",
+   "cat": "prefixe",
+   "terme": "Oligo-",
+   "sens": "Peu, en petite quantité",
+   "exemples": [
+    {
+     "mot": "Oligurie",
+     "def": "Diminution anormale du volume des urines"
+    },
+    {
+     "mot": "Oligoélément",
+     "def": "Minéral essentiel présent en faible quantité dans l'organisme"
+    }
+   ],
+   "syn": "moins"
+  },
+  {
+   "id": "para",
+   "cat": "prefixe",
+   "terme": "Para-",
+   "sens": "À côté de, près de, à travers",
+   "exemples": [
+    {
+     "mot": "Paracentèse",
+     "def": "Ponction pour évacuer un liquide"
+    }
+   ],
+   "syn": "travers"
+  },
+  {
+   "id": "patho",
+   "cat": "racine",
+   "terme": "Patho-",
+   "sens": "Souffrance, maladie",
+   "exemples": [
+    {
+     "mot": "Pathologie",
+     "def": "Science qui étudie les maladies, leurs causes et leurs symptômes"
+    }
+   ],
+   "syn": "maladie"
+  },
+  {
+   "id": "peri",
+   "cat": "prefixe",
+   "terme": "Péri-",
+   "sens": "Autour de",
+   "exemples": [
+    {
+     "mot": "Péridurale",
+     "def": "Autour de la dure-mère (couche externe de la moelle épinière)"
+    },
+    {
+     "mot": "Péricarde",
+     "def": "Enveloppe autour du cœur"
+    }
+   ]
+  },
+  {
+   "id": "pollaki",
+   "cat": "prefixe",
+   "terme": "Pollaki-",
+   "sens": "Fréquent, répété",
+   "exemples": [
+    {
+     "mot": "Pollakiurie",
+     "def": "Besoin d'uriner souvent"
+    }
+   ]
+  },
+  {
+   "id": "poly",
+   "cat": "prefixe",
+   "terme": "Poly-",
+   "sens": "Plusieurs, en grande quantité",
+   "exemples": [
+    {
+     "mot": "Polyphagie",
+     "def": "Faim excessive"
+    }
+   ],
+   "syn": "plusieurs"
+  },
+  {
+   "id": "post",
+   "cat": "prefixe",
+   "terme": "Post-",
+   "sens": "Derrière, après",
+   "exemples": [
+    {
+     "mot": "Postopératoire",
+     "def": "Après une opération"
+    }
+   ],
+   "syn": "derriere"
+  },
+  {
+   "id": "retro",
+   "cat": "prefixe",
+   "terme": "Rétro-",
+   "sens": "Derrière, en arrière",
+   "exemples": [
+    {
+     "mot": "Rétrosternal",
+     "def": "Derrière le sternum"
+    }
+   ],
+   "syn": "derriere"
+  },
+  {
+   "id": "semio-semeio",
+   "cat": "racine",
+   "terme": "Sémio-/Séméio-",
+   "sens": "Signe",
+   "exemples": [
+    {
+     "mot": "Sémiotique",
+     "def": "Étude des signes et symptômes qui permettent de reconnaître une maladie"
+    }
+   ]
+  },
+  {
+   "id": "tachy",
+   "cat": "prefixe",
+   "terme": "Tachy-",
+   "sens": "Rapide, accéléré",
+   "exemples": [
+    {
+     "mot": "Tachycardie",
+     "def": "Accélération du rythme cardiaque"
+    }
+   ]
+  },
+  {
+   "id": "trans",
+   "cat": "prefixe",
+   "terme": "Trans-",
+   "sens": "À travers, au-delà, de l'autre côté",
+   "exemples": [
+    {
+     "mot": "Transdermique",
+     "def": "Qui traverse la peau"
+    }
+   ],
+   "syn": "travers"
+  },
+  {
+   "id": "algie",
+   "cat": "suffixe",
+   "terme": "-algie",
+   "sens": "Douleur",
+   "exemples": [
+    {
+     "mot": "Fibromyalgie",
+     "def": "Affection chronique douleurs musculaire"
+    }
+   ]
+  },
+  {
+   "id": "cide",
+   "cat": "suffixe",
+   "terme": "-cide",
+   "sens": "Qui détruit",
+   "exemples": [
+    {
+     "mot": "Bactéricide",
+     "def": "Substance ou agent qui détruit les bactéries"
+    }
+   ],
+   "syn": "destruction"
+  },
+  {
+   "id": "ectasie",
+   "cat": "suffixe",
+   "terme": "-ectasie",
+   "sens": "Dilatation",
+   "exemples": [
+    {
+     "mot": "Colectasie",
+     "def": "Dilatation anormale et importante du gros intestin"
+    }
+   ],
+   "syn": "grand"
+  },
+  {
+   "id": "ectomie",
+   "cat": "suffixe",
+   "terme": "-ectomie",
+   "sens": "Ablation chirurgicale",
+   "exemples": [
+    {
+     "mot": "Hystérectomie",
+     "def": "Ablation chirurgicale de l'utérus"
+    }
+   ],
+   "syn": "chirurgie"
+  },
+  {
+   "id": "emese",
+   "cat": "suffixe",
+   "terme": "-émèse",
+   "sens": "Vomissement",
+   "exemples": [
+    {
+     "mot": "Hématémèse",
+     "def": "Rejet du sang par la bouche lors d'un effort de vomissement"
+    }
+   ]
+  },
+  {
+   "id": "emie",
+   "cat": "suffixe",
+   "terme": "-émie",
+   "sens": "Dans le sang",
+   "exemples": [
+    {
+     "mot": "Glycémie",
+     "def": "Taux de glucose présent dans le sang"
+    }
+   ]
+  },
+  {
+   "id": "esthesie",
+   "cat": "suffixe",
+   "terme": "-esthésie",
+   "sens": "Sensibilité",
+   "exemples": [
+    {
+     "mot": "Anesthésie",
+     "def": "Technique médicale qui supprime ou atténue la douleur pendant une intervention"
+    }
+   ]
+  },
+  {
+   "id": "gene",
+   "cat": "suffixe",
+   "terme": "-gène",
+   "sens": "Qui engendre",
+   "exemples": [
+    {
+     "mot": "Pathogène",
+     "def": "Organisme vivant ou entité biologique capable de provoquer une maladie chez un hôte"
+    }
+   ],
+   "syn": "engendrer"
+  },
+  {
+   "id": "genese",
+   "cat": "suffixe",
+   "terme": "-genèse",
+   "sens": "Formation, production",
+   "exemples": [
+    {
+     "mot": "Ostéogenèse",
+     "def": "Processus de formation et de développement du tissu osseux"
+    }
+   ],
+   "syn": "engendrer"
+  },
+  {
+   "id": "geste",
+   "cat": "suffixe",
+   "terme": "-geste",
+   "sens": "Qui porte",
+   "exemples": [
+    {
+     "mot": "Primigeste",
+     "def": "Femme qui est enceinte pour la première fois"
+    }
+   ]
+  },
+  {
+   "id": "gramme",
+   "cat": "suffixe",
+   "terme": "-gramme",
+   "sens": "Résultat d'examen (écrit)",
+   "exemples": [
+    {
+     "mot": "Électrocardiogramme",
+     "def": "Examen qui montre et enregistre l'activité électrique du cœur pendant un certain temps"
+    }
+   ]
+  },
+  {
+   "id": "graphie",
+   "cat": "suffixe",
+   "terme": "-graphie",
+   "sens": "Enregistrement",
+   "exemples": [
+    {
+     "mot": "Radiographie",
+     "def": "Examen d'imagerie médicale rapide et indolore qui utilise des rayons X"
+    }
+   ]
+  },
+  {
+   "id": "ite",
+   "cat": "suffixe",
+   "terme": "-ite",
+   "sens": "Inflammation",
+   "exemples": [
+    {
+     "mot": "Méningite",
+     "def": "Inflammation des méninges"
+    }
+   ]
+  },
+  {
+   "id": "logie-logue",
+   "cat": "suffixe",
+   "terme": "-logie/-logue",
+   "sens": "Science, étude de",
+   "exemples": [
+    {
+     "mot": "Pathologie",
+     "def": "Science qui étudie les maladies"
+    }
+   ]
+  },
+  {
+   "id": "lyse",
+   "cat": "suffixe",
+   "terme": "-lyse",
+   "sens": "Destruction",
+   "exemples": [
+    {
+     "mot": "Hémolyse",
+     "def": "Destruction des globules rouges"
+    }
+   ],
+   "syn": "destruction"
+  },
+  {
+   "id": "megalie",
+   "cat": "suffixe",
+   "terme": "-mégalie",
+   "sens": "Grand, augmentation de volume",
+   "exemples": [
+    {
+     "mot": "Splénomégalie",
+     "def": "Augmentation anormale du volume de la rate"
+    }
+   ],
+   "syn": "grand"
+  },
+  {
+   "id": "mnesie",
+   "cat": "suffixe",
+   "terme": "-mnésie",
+   "sens": "Mémoire",
+   "exemples": [
+    {
+     "mot": "Amnésie",
+     "def": "Perte de mémoire"
+    }
+   ],
+   "syn": "memoire"
+  },
+  {
+   "id": "ose",
+   "cat": "suffixe",
+   "terme": "-ose",
+   "sens": "État, maladie non inflammatoire",
+   "exemples": [
+    {
+     "mot": "Arthrose",
+     "def": "Maladie des articulations qui provoque la destruction du cartilage, la douleur et la raideur"
+    }
+   ],
+   "syn": "maladie"
+  },
+  {
+   "id": "oxie",
+   "cat": "suffixe",
+   "terme": "-oxie",
+   "sens": "Oxygène",
+   "exemples": [
+    {
+     "mot": "Anoxie",
+     "def": "Manque total ou absence de dioxygène dans les tissus, un organe ou un milieu"
+    }
+   ]
+  },
+  {
+   "id": "pare",
+   "cat": "suffixe",
+   "terme": "-pare",
+   "sens": "Qui engendre, qui enfante",
+   "exemples": [
+    {
+     "mot": "Nullipare",
+     "def": "Une femme ou une femelle de mammifère qui n'a jamais accouché"
+    }
+   ],
+   "syn": "engendrer"
+  },
+  {
+   "id": "paresie",
+   "cat": "suffixe",
+   "terme": "-parésie",
+   "sens": "Paralysie partielle",
+   "exemples": [
+    {
+     "mot": "Hémiparésie",
+     "def": "Diminution de la force musculaire ou une faiblesse touchant la moitié gauche ou droite du corps"
+    }
+   ]
+  },
+  {
+   "id": "pathie",
+   "cat": "suffixe",
+   "terme": "-pathie",
+   "sens": "Maladie",
+   "exemples": [
+    {
+     "mot": "Pneumopathie",
+     "def": "Maladie, infection qui touche les poumons"
+    }
+   ],
+   "syn": "maladie"
+  },
+  {
+   "id": "penie",
+   "cat": "suffixe",
+   "terme": "-pénie",
+   "sens": "Diminution",
+   "exemples": [
+    {
+     "mot": "Thrombopénie",
+     "def": "Baisse du nombre de plaquettes dans le sang (en dessous de 150 000 par microlitre)"
+    }
+   ],
+   "syn": "moins"
+  },
+  {
+   "id": "pexie",
+   "cat": "suffixe",
+   "terme": "-pexie",
+   "sens": "Fixation",
+   "exemples": [
+    {
+     "mot": "Néphropexie",
+     "def": "Opération chirurgicale rare qui consiste à fixer un rein mobile ou descendu à sa place normale"
+    }
+   ]
+  },
+  {
+   "id": "phagie",
+   "cat": "suffixe",
+   "terme": "-phagie",
+   "sens": "Qui mange",
+   "exemples": [
+    {
+     "mot": "Dysphagie",
+     "def": "Trouble de la déglutition qui se manifeste par une difficulté ou une douleur à faire passer les aliments, les liquides ou la salive de la bouche vers l'estomac"
+    }
+   ]
+  },
+  {
+   "id": "phile-philie",
+   "cat": "suffixe",
+   "terme": "-phile/-philie",
+   "sens": "Qui aime",
+   "exemples": [
+    {
+     "mot": "Hydrophile",
+     "def": "Qui aime l'eau"
+    }
+   ]
+  },
+  {
+   "id": "phobe-phobie",
+   "cat": "suffixe",
+   "terme": "-phobe/-phobie",
+   "sens": "Qui craint, peur",
+   "exemples": [
+    {
+     "mot": "Émétophobie",
+     "def": "Peur panique de vomir"
+    }
+   ]
+  },
+  {
+   "id": "plastie",
+   "cat": "suffixe",
+   "terme": "-plastie",
+   "sens": "Modification de forme, reconstruction chirurgicale",
+   "exemples": [
+    {
+     "mot": "Rhinoplastie",
+     "def": "Intervention de chirurgie plastique ou réparatrice qui consiste à modifier la forme, la taille ou la structure du nez"
+    }
+   ]
+  },
+  {
+   "id": "plegie",
+   "cat": "suffixe",
+   "terme": "-plégie",
+   "sens": "Paralysie",
+   "exemples": [
+    {
+     "mot": "Paraplégie",
+     "def": "Paralysie des deux membres inférieurs"
+    },
+    {
+     "mot": "Tétraplégie",
+     "def": "Paralysie des quatre membres"
+    }
+   ]
+  },
+  {
+   "id": "rragie",
+   "cat": "suffixe",
+   "terme": "-rragie",
+   "sens": "Écoulement important",
+   "exemples": [
+    {
+     "mot": "Hémorragie",
+     "def": "Perte de sang importante hors des vaisseaux sanguins"
+    },
+    {
+     "mot": "Métrorragie",
+     "def": "Saignement de l'utérus en dehors des règles"
+    }
+   ]
+  },
+  {
+   "id": "rrhee",
+   "cat": "suffixe",
+   "terme": "-rrhée",
+   "sens": "Écoulement",
+   "exemples": [
+    {
+     "mot": "Rhinorrhée",
+     "def": "Écoulement nasal abondant"
+    }
+   ]
+  },
+  {
+   "id": "scopie",
+   "cat": "suffixe",
+   "terme": "-scopie",
+   "sens": "Examen visuel",
+   "exemples": [
+    {
+     "mot": "Endoscopie",
+     "def": "Examen visuel des cavités internes du corps"
+    },
+    {
+     "mot": "Cystoscopie",
+     "def": "Endoscopie ciblant spécifiquement la vessie et l'urètre"
+    }
+   ]
+  },
+  {
+   "id": "stase-statique",
+   "cat": "suffixe",
+   "terme": "-stase/-statique",
+   "sens": "Qui arrête, qui stoppe",
+   "exemples": [
+    {
+     "mot": "Hémostase",
+     "def": "Processus, stopper un saignement, contraction du vaisseau"
+    },
+    {
+     "mot": "Bactériostatique",
+     "def": "Bloque la croissance des bactéries"
+    }
+   ]
+  },
+  {
+   "id": "sthenie",
+   "cat": "suffixe",
+   "terme": "-sthénie",
+   "sens": "Force",
+   "exemples": [
+    {
+     "mot": "Asthénie",
+     "def": "Fatigue générale"
+    },
+    {
+     "mot": "Neurasthénie",
+     "def": "Fatigue chronique associée à de l'anxiété"
+    }
+   ]
+  },
+  {
+   "id": "stomie",
+   "cat": "suffixe",
+   "terme": "-stomie",
+   "sens": "Abouchement à la peau",
+   "exemples": [
+    {
+     "mot": "Colostomie",
+     "def": "Abouchement chirurgical du côlon à la peau"
+    },
+    {
+     "mot": "Jéjunostomie",
+     "def": "Création d'une ouverture au niveau du jéjunum (la partie du milieu de l'intestin grêle)"
+    }
+   ]
+  },
+  {
+   "id": "therapie",
+   "cat": "suffixe",
+   "terme": "-thérapie",
+   "sens": "Traitement",
+   "exemples": [
+    {
+     "mot": "Chimiothérapie",
+     "def": "Utilisation de substances chimiques par voie orale ou intraveineuse"
+    },
+    {
+     "mot": "Cryothérapie",
+     "def": "Méthode de soin qui utilise le froid intense"
+    }
+   ]
+  },
+  {
+   "id": "tocie",
+   "cat": "suffixe",
+   "terme": "-tocie",
+   "sens": "Accouchement",
+   "exemples": [
+    {
+     "mot": "Eutocie",
+     "def": "Accouchement (naturel) normal"
+    },
+    {
+     "mot": "Dystocie",
+     "def": "Accouchement difficile"
+    }
+   ]
+  },
+  {
+   "id": "tomie",
+   "cat": "suffixe",
+   "terme": "-tomie",
+   "sens": "Incision",
+   "exemples": [
+    {
+     "mot": "Laparotomie",
+     "def": "Opération chirurgicale consistant à ouvrir le ventre avec une grande coupure"
+    },
+    {
+     "mot": "Trachéotomie",
+     "def": "Intervention chirurgicale consistant à pratiquer une ouverture dans la trachée pour y insérer un tube"
+    }
+   ],
+   "syn": "chirurgie"
+  },
+  {
+   "id": "trophie",
+   "cat": "suffixe",
+   "terme": "-trophie",
+   "sens": "Changement de volume",
+   "exemples": [
+    {
+     "mot": "Atrophie",
+     "def": "Diminution de la taille ou du volume d'une cellule, d'un tissu, d'un membre ou d'un organe"
+    },
+    {
+     "mot": "Dystrophie",
+     "def": "Trouble de la croissance ou de la nutrition d'un tissu ou d'un organe, qui provoque son usure, son amincissement ou son mauvais développement"
+    }
+   ]
+  },
+  {
+   "id": "urie",
+   "cat": "suffixe",
+   "terme": "-urie",
+   "sens": "Dans l’urine",
+   "exemples": [
+    {
+     "mot": "Oligurie",
+     "def": "Diminution anormale du volume des urines"
+    },
+    {
+     "mot": "Hématurie",
+     "def": "Présence anormale de globules rouges (ou hématies) dans les urines"
+    }
+   ]
+  },
+  {
+   "id": "infection",
+   "cat": "vocabulaire",
+   "terme": "Infection",
+   "sens": "Invasion de l'organisme par un microbe nuisible",
+   "exemples": []
+  },
+  {
+   "id": "traumatisme",
+   "cat": "vocabulaire",
+   "terme": "Traumatisme",
+   "sens": "Blessure ou choc violent qui touche soit le corps (lésion physique), soit l'esprit (choc psychologique)",
+   "exemples": []
+  },
+  {
+   "id": "pathologie-chronique",
+   "cat": "vocabulaire",
+   "terme": "Pathologie chronique",
+   "sens": "Affection de longue durée",
+   "exemples": []
+  },
+  {
+   "id": "suivi-medical",
+   "cat": "vocabulaire",
+   "terme": "Suivi médical",
+   "sens": "Processus continu de surveillance de la santé assuré par des professionnels",
+   "exemples": []
+  },
+  {
+   "id": "controle-medical",
+   "cat": "vocabulaire",
+   "terme": "Contrôle médical",
+   "sens": "Examen réalisé par un médecin",
+   "exemples": []
+  },
+  {
+   "id": "inflammation",
+   "cat": "vocabulaire",
+   "terme": "Inflammation",
+   "sens": "Réaction de défense naturelle du corps face à une agression",
+   "exemples": []
+  },
+  {
+   "id": "antecedent",
+   "cat": "vocabulaire",
+   "terme": "Antécédent",
+   "sens": "Fait médical passé du patient (maladie, opération, traitement) ou de sa famille, utile pour la prise en charge actuelle",
+   "exemples": []
+  },
+  {
+   "id": "bilan-medical",
+   "cat": "vocabulaire",
+   "terme": "Bilan médical",
+   "sens": "Ensemble d'examens et d'évaluations cliniques ou biologiques qui permettent de faire le point sur l'état de santé global d'une personne",
+   "exemples": []
+  },
+  {
+   "id": "prevention",
+   "cat": "vocabulaire",
+   "terme": "Prévention",
+   "sens": "Action pour éviter ou réduire un risque",
+   "exemples": []
+  },
+  {
+   "id": "interapophysaire-posterieure",
+   "cat": "vocabulaire",
+   "terme": "Interapophysaire postérieure",
+   "sens": "Articulation située à l'arrière de la colonne vertébrale, entre deux vertèbres superposées",
+   "exemples": []
+  },
+  {
+   "id": "uncodiscarthrose",
+   "cat": "vocabulaire",
+   "terme": "Uncodiscarthrose",
+   "sens": "Forme d'arthrose des vertèbres cervicales qui associe l'usure des disques intervertébraux et la dégénérescence des uncus",
+   "exemples": []
+  },
+  {
+   "id": "inflammation-modic-1",
+   "cat": "vocabulaire",
+   "terme": "Inflammation Modic 1",
+   "sens": "Lésion de l'os situé juste à côté d'un disque intervertébral usé",
+   "exemples": []
+  },
+  {
+   "id": "stenose-foraminale-bilaterale",
+   "cat": "vocabulaire",
+   "terme": "Sténose foraminale bilatérale",
+   "sens": "Rétrécissement des canaux de sortie des nerfs (les foramens) des deux côtés de la colonne vertébrale à un même niveau",
+   "exemples": []
+  },
+  {
+   "id": "nevralgie-cervico-brachiale",
+   "cat": "vocabulaire",
+   "terme": "Névralgie cervico-brachiale",
+   "sens": "Douleur qui part du cou et irradie le long du bras, parfois jusqu'aux doigts appelée aussi (NCB)",
+   "exemples": []
+  },
+  {
+   "id": "discoradiculaire",
+   "cat": "vocabulaire",
+   "terme": "Discoradiculaire",
+   "sens": "Relation anormale entre un disque intervertébral et une racine nerveuse dans la colonne vertébrale",
+   "exemples": []
+  },
+  {
+   "id": "degenerescence-des-uncus",
+   "cat": "vocabulaire",
+   "terme": "Dégénérescence des uncus",
+   "sens": "Usure par arthrose de petites structures osseuses appelées \"uncus\", situées sur les côtés des vertèbres cervicales",
+   "exemples": []
+  },
+  {
+   "id": "sequence-sagittale",
+   "cat": "vocabulaire",
+   "terme": "Séquence sagittale",
+   "sens": "En IRM image réalisée sur le plan vertical qui divise le corps ou un organe en une partie gauche et une partie droite",
+   "exemples": []
+  },
+  {
+   "id": "posterolaterale",
+   "cat": "vocabulaire",
+   "terme": "Postérolatérale",
+   "sens": "Structure ou une position située à la fois à l'arrière et sur le côté",
+   "exemples": []
+  },
+  {
+   "id": "conflit-sous-acromial",
+   "cat": "vocabulaire",
+   "terme": "Conflit sous-acromial",
+   "sens": "Irritation mécanique des tendons de l'épaule qui se produisent lorsqu'ils frottent contre l'os supérieur de l'omoplate (acromial = acromion, saillie osseuse située au sommet de l'épaule, qui correspond au prolongement de la scapula)",
+   "exemples": []
+  },
+  {
+   "id": "interligne-gleno-humeral",
+   "cat": "vocabulaire",
+   "terme": "Interligne gléno-huméral",
+   "sens": "Espace visible entre les deux os de l'épaule sur une radiographie",
+   "exemples": []
+  },
+  {
+   "id": "arthropathie",
+   "cat": "vocabulaire",
+   "terme": "Arthropathie",
+   "sens": "Toute affection ou maladie touchant une articulation",
+   "exemples": []
+  },
+  {
+   "id": "calcification",
+   "cat": "vocabulaire",
+   "terme": "Calcification",
+   "sens": "Dépôt de sels de calcium qui s'accumule dans un tissu du corps",
+   "exemples": []
+  },
+  {
+   "id": "bursopathie",
+   "cat": "vocabulaire",
+   "terme": "Bursopathie",
+   "sens": "Inflammation d'une bourse séreuse, une petite poche remplie de liquide qui agit comme un coussinet de glissement entre les os, les tendons et les muscles",
+   "exemples": []
+  },
+  {
+   "id": "epanchement",
+   "cat": "vocabulaire",
+   "terme": "Épanchement",
+   "sens": "Accumulation anormale de liquide ou de gaz dans une cavité naturelle du corps ou dans les tissus",
+   "exemples": []
+  },
+  {
+   "id": "masse",
+   "cat": "vocabulaire",
+   "terme": "Masse",
+   "sens": "Zone de tissu anormale ou une grosseur qui dépasse la taille normale d'une partie du corps",
+   "exemples": []
+  },
+  {
+   "id": "collection",
+   "cat": "vocabulaire",
+   "terme": "Collection",
+   "sens": "Accumulation anormale de liquide ou de pus dans une cavité ou un tissu de l'organisme",
+   "exemples": []
+  },
+  {
+   "id": "tendons-de-la-coiffe-coiffe-des-rotateurs",
+   "cat": "vocabulaire",
+   "terme": "Tendons de la coiffe (coiffe des rotateurs)",
+   "sens": "Ensemble de quatre tendons et muscles de l'épaule qui recouvrent la tête de l'humérus pour assurer sa stabilité et sa mobilité",
+   "exemples": []
+  }
+ ]
+}
