@@ -16,6 +16,7 @@
   --c-racine: #a8641a;
   --c-suffixe: #7a3f8f;
   --c-vocabulaire: #2f5d8a;
+  --c-cours: #8a3b52;
   --radius: 14px;
   --shadow: 0 1px 2px rgb(30 25 15 / 6%), 0 6px 20px rgb(30 25 15 / 6%);
   color-scheme: light;
@@ -40,6 +41,7 @@
     --c-racine: #e2a55b;
     --c-suffixe: #c592d6;
     --c-vocabulaire: #82b2e0;
+    --c-cours: #e38aa4;
     --shadow: none;
     color-scheme: dark;
   }
@@ -222,6 +224,66 @@ legend {
   height: 100%;
   background: var(--c);
   border-radius: inherit;
+}
+
+.modules {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.module {
+  position: relative;
+}
+
+.module input {
+  position: absolute;
+  opacity: 0;
+  pointer-events: none;
+}
+
+.module span {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 7px 12px;
+  border-radius: 99px;
+  border: 1.5px solid var(--line);
+  background: var(--surface);
+  font-size: 14px;
+  color: var(--ink-2);
+  cursor: pointer;
+  transition: background 0.15s, border-color 0.15s, color 0.15s;
+}
+
+.module small {
+  font-size: 12px;
+  opacity: 0.7;
+  font-variant-numeric: tabular-nums;
+}
+
+.module input:checked + span {
+  border-color: var(--c-cours);
+  background: color-mix(in srgb, var(--c-cours) 12%, var(--surface));
+  color: var(--ink);
+  font-weight: 700;
+}
+
+.module input:focus-visible + span {
+  outline: 3px solid var(--accent);
+  outline-offset: 2px;
+}
+
+.module-actions {
+  display: flex;
+  gap: 16px;
+  margin-top: 10px;
+  font-size: 14px;
+}
+
+.legend-note {
+  font-weight: 400;
+  font-size: 13px;
 }
 
 .seg {
@@ -581,6 +643,14 @@ legend {
 .details:empty {
   display: none;
 }
+
+.explication {
+  margin: 8px 0 0;
+  color: var(--ink);
+}
+
+.chip:nth-child(5) { --c: var(--c-cours); grid-column: 1 / -1; }
+.tag-cours { --c: var(--c-cours); }
 
 .syn {
   margin: 8px 0 0;

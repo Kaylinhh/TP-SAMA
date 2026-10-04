@@ -1,0 +1,2199 @@
+{
+ "version": 1,
+ "categories": [
+  {
+   "id": "cours",
+   "label": "Cours"
+  }
+ ],
+ "entries": [
+  {
+   "id": "accueil-definition",
+   "cat": "cours",
+   "module": "Accueil physique",
+   "question": "Comment le cours définit-il l'accueil ?",
+   "reponse": "La façon de recevoir les patients et l'espace où se déroule la rencontre avec la structure",
+   "faux": [
+    "Le premier contact, physique ou téléphonique, entre le patient et le secrétariat",
+    "L'ensemble des démarches administratives réalisées à l'arrivée du patient",
+    "La salle où le patient patiente avant d'être reçu par le professionnel"
+   ],
+   "explication": "Deux dimensions : la manière de recevoir (posture, comportement) et l'espace où a lieu la rencontre."
+  },
+  {
+   "id": "accueil-impact",
+   "cat": "cours",
+   "module": "Accueil physique",
+   "question": "Sur quoi la qualité de l'accueil a-t-elle un impact ?",
+   "reponse": "Le parcours de soin du patient et l'image de la structure",
+   "faux": [
+    "Le diagnostic posé par le médecin et la durée de la consultation",
+    "Le tarif de la consultation et le taux de remboursement",
+    "Uniquement la satisfaction du patient"
+   ]
+  },
+  {
+   "id": "accueil-facteurs",
+   "cat": "cours",
+   "module": "Accueil physique",
+   "question": "Lequel de ces éléments ne fait PAS partie des 3 facteurs d'un bon accueil ?",
+   "reponse": "Le nombre de places en salle d'attente",
+   "faux": [
+    "La disponibilité de la personne accueillante",
+    "La configuration des locaux",
+    "Une signalétique claire"
+   ],
+   "explication": "Les 3 facteurs : disponibilité de la personne accueillante, configuration des locaux (respect, confidentialité), signalétique claire (orientation fluide)."
+  },
+  {
+   "id": "accueil-missions",
+   "cat": "cours",
+   "module": "Accueil physique",
+   "question": "Quelles sont les 4 grandes missions du SAMA en matière d'accueil ?",
+   "reponse": "Accueil physique, accueil téléphonique, gestion des demandes, orientation des patients",
+   "faux": [
+    "Informer, renseigner, orienter et rassurer le patient tout au long de sa venue",
+    "Accueil physique, prise de rendez-vous, encaissement des actes, classement",
+    "Accueil des patients, facturation, archivage des dossiers, orientation"
+   ],
+   "explication": "Informer et renseigner sont des actions faites à l'intérieur de ces missions, pas les missions elles-mêmes."
+  },
+  {
+   "id": "accueil-intermediaire",
+   "cat": "cours",
+   "module": "Accueil physique",
+   "question": "En tant qu'intermédiaire entre les professionnels de santé, le SAMA permet surtout…",
+   "reponse": "Aux soignants de se concentrer sur le soin, en facilitant la transmission des informations",
+   "faux": [
+    "De remplacer le médecin pour répondre aux questions médicales simples des patients",
+    "De décider des priorités de prise en charge entre les différents services",
+    "De contrôler que les soignants respectent les procédures administratives"
+   ],
+   "explication": "Il fait circuler les informations administratives et médicales dans le respect du secret professionnel, ce qui améliore l'organisation du travail."
+  },
+  {
+   "id": "accueil-espace-situation",
+   "cat": "cours",
+   "module": "Accueil physique",
+   "question": "Où doit se situer l'espace d'accueil ?",
+   "reponse": "À l'entrée, insonorisé et isolé pour préserver la confidentialité",
+   "faux": [
+    "Au centre de la structure, près des cabinets de consultation",
+    "Dans la salle d'attente, ouvert pour pouvoir la surveiller",
+    "Près de la sortie, pour faciliter l'encaissement"
+   ]
+  },
+  {
+   "id": "accueil-bureau-ferme",
+   "cat": "cours",
+   "module": "Accueil physique",
+   "question": "Quel type d'espace d'accueil garantit une confidentialité totale ?",
+   "reponse": "Le bureau fermé",
+   "faux": [
+    "Le salon d'accueil",
+    "L'accueil ouvert",
+    "L'accueil semi-ouvert"
+   ],
+   "explication": "Les 4 types : salon d'accueil, accueil ouvert, accueil semi-ouvert, bureau fermé."
+  },
+  {
+   "id": "accueil-semi-ouvert",
+   "cat": "cours",
+   "module": "Accueil physique",
+   "question": "Qu'est-ce qui caractérise l'accueil semi-ouvert ?",
+   "reponse": "Des cloisons à mi-hauteur qui dissimulent l'ordinateur et les dossiers",
+   "faux": [
+    "Un comptoir sans séparation pour renseigner directement les patients",
+    "Une pièce fermée réservée aux échanges confidentiels",
+    "Un espace avec fauteuils et lecture pour patienter"
+   ]
+  },
+  {
+   "id": "accueil-adapter-environnement",
+   "cat": "cours",
+   "module": "Accueil physique",
+   "question": "Lequel ne fait PAS partie des axes pour adapter l'environnement d'accueil à tous les publics ?",
+   "reponse": "Installer une borne d'enregistrement automatique",
+   "faux": [
+    "Assurer l'accessibilité PMR et handicap",
+    "Prévoir une signalétique adaptée avec pictogrammes",
+    "Sensibiliser le personnel et les usagers"
+   ],
+   "explication": "Les 5 axes : accessibilité PMR/handicap, signalétique adaptée, environnement rassurant, accompagnement personnalisé, sensibilisation du personnel et des usagers."
+  },
+  {
+   "id": "accueil-chaleureux",
+   "cat": "cours",
+   "module": "Accueil physique",
+   "question": "Concernant l'attitude d'accueil, que précise le cours ?",
+   "reponse": "Être chaleureux ne veut pas dire être familier",
+   "faux": [
+    "Il vaut mieux tutoyer le patient pour le mettre à l'aise",
+    "La neutralité passe avant la politesse",
+    "Il faut éviter de reformuler pour ne pas vexer le patient"
+   ]
+  },
+  {
+   "id": "accueil-situation-delicate",
+   "cat": "cours",
+   "module": "Accueil physique",
+   "question": "Face à un patient mécontent ou pressé, la réponse du SAMA doit être…",
+   "reponse": "Brève, ferme et empathique",
+   "faux": [
+    "Détaillée, pour justifier le fonctionnement de la structure",
+    "Ferme et distante, pour ne pas se laisser déborder",
+    "Conciliante, quitte à céder pour calmer la situation"
+   ],
+   "explication": "Accueillir l'émotion sans céder à la pression : rester calme, ne pas répondre sur le même ton, poser des limites avec tact."
+  },
+  {
+   "id": "accueil-hors-role",
+   "cat": "cours",
+   "module": "Accueil physique",
+   "question": "Que fait le SAMA quand la demande d'un patient dépasse son rôle ?",
+   "reponse": "Il oriente vers la bonne personne ou la bonne ressource",
+   "faux": [
+    "Il répond au mieux pour ne pas laisser le patient sans réponse",
+    "Il demande au patient de revenir un autre jour",
+    "Il note la demande et la traite plus tard"
+   ]
+  },
+  {
+   "id": "accueil-econduire",
+   "cat": "cours",
+   "module": "Accueil physique",
+   "question": "Que signifie « éconduire » un patient ?",
+   "reponse": "Expliquer pourquoi on ne peut pas répondre à sa demande et proposer une solution",
+   "faux": [
+    "Lui proposer d'attendre en salle d'attente avec une occupation",
+    "L'accompagner jusqu'au bon service en lui indiquant le chemin",
+    "Lui refuser l'accès sans donner de raison, par souci de confidentialité"
+   ],
+   "explication": "La solution proposée peut être un rappel, un mail ou une redirection."
+  },
+  {
+   "id": "accueil-faire-patienter",
+   "cat": "cours",
+   "module": "Accueil physique",
+   "question": "Pour faire patienter un patient, le SAMA…",
+   "reponse": "L'informe du temps d'attente et lui propose une occupation",
+   "faux": [
+    "Lui demande de revenir plus tard",
+    "Le laisse en salle d'attente sans lui donner de délai",
+    "Le redirige vers un autre professionnel disponible"
+   ]
+  },
+  {
+   "id": "accueil-transmettre-message",
+   "cat": "cours",
+   "module": "Accueil physique",
+   "question": "Quelles sont les étapes pour transmettre un message ?",
+   "reponse": "Écoute active, reformulation, prise de note sur un support adapté, transmission rapide",
+   "faux": [
+    "Prise de note, transmission, puis reformulation au patient",
+    "Écoute active, transmission orale immédiate, sans prise de note",
+    "Prise de note, classement au dossier, transmission en fin de journée"
+   ]
+  },
+  {
+   "id": "accueil-compris",
+   "cat": "cours",
+   "module": "Accueil physique",
+   "question": "Pourquoi le cours insiste-t-il pour « toujours s'assurer d'avoir été compris » ?",
+   "reponse": "Un patient qui a mal compris peut mal suivre une consigne, se tromper de lieu ou d'horaire",
+   "faux": [
+    "Pour montrer au patient que le SAMA maîtrise bien son sujet et le rassurer",
+    "Pour éviter d'avoir à reformuler la même information plus tard dans la journée",
+    "Parce que c'est une obligation légale liée au secret professionnel du SAMA"
+   ],
+   "explication": "Vérifier la compréhension (reformulation, question de contrôle) évite les erreurs dans la suite du parcours."
+  },
+  {
+   "id": "communication-profession-01",
+   "cat": "cours",
+   "module": "Communication professionnelle",
+   "question": "Comment le cours définit-il la communication professionnelle ?",
+   "reponse": "L'ensemble des échanges verbaux, non verbaux, para-verbaux et écrits",
+   "faux": [
+    "Uniquement les échanges écrits officiels (courriers, mails)",
+    "Les échanges oraux entre collègues d'un même service",
+    "La transmission d'informations médicales au patient"
+   ],
+   "explication": "En face à face, par courrier ou par mail."
+  },
+  {
+   "id": "communication-profession-02",
+   "cat": "cours",
+   "module": "Communication professionnelle",
+   "question": "Quel est le schéma de base de la communication ?",
+   "reponse": "Émetteur → message → récepteur → feedback",
+   "faux": [
+    "Message → émetteur → récepteur → canal",
+    "Récepteur → message → émetteur → réponse",
+    "Émetteur → canal → message → décision"
+   ],
+   "explication": "Le message peut être mal compris : vocabulaire trop technique, émotion, contexte."
+  },
+  {
+   "id": "communication-profession-03",
+   "cat": "cours",
+   "module": "Communication professionnelle",
+   "question": "La communication para-verbale, c'est…",
+   "reponse": "Le ton, le rythme, le volume, l'accent, les pauses et les silences",
+   "faux": [
+    "Les gestes, les expressions du visage et la posture",
+    "La parole et l'écrit",
+    "Les mails, messageries et visioconférences"
+   ],
+   "explication": "Verbal = parole et écrit. Non verbal = gestes, expressions, langage corporel."
+  },
+  {
+   "id": "communication-profession-04",
+   "cat": "cours",
+   "module": "Communication professionnelle",
+   "question": "Selon la répartition de Mehrabian vue en cours, quelle part du message passe par les mots ?",
+   "reponse": "7 %",
+   "faux": [
+    "38 %",
+    "55 %",
+    "70 %"
+   ],
+   "explication": "Le reste passe par la voix et par le corps."
+  },
+  {
+   "id": "communication-profession-05",
+   "cat": "cours",
+   "module": "Communication professionnelle",
+   "question": "Lequel n'est PAS un frein à la communication cité dans le cours ?",
+   "reponse": "La reformulation",
+   "faux": [
+    "Le bruit",
+    "Les préjugés",
+    "Le vocabulaire inadapté"
+   ],
+   "explication": "Freins : bruit, fatigue, stress, préjugés, vocabulaire inadapté, absence d'écoute, interruptions, émotions."
+  },
+  {
+   "id": "communication-profession-06",
+   "cat": "cours",
+   "module": "Communication professionnelle",
+   "question": "Qu'est-ce que l'assertivité ?",
+   "reponse": "Exprimer une réponse claire, sans agressivité ni soumission",
+   "faux": [
+    "Toujours donner raison au patient pour éviter le conflit",
+    "Imposer la règle de la structure sans discussion",
+    "Répondre rapidement pour ne pas faire attendre"
+   ],
+   "explication": "Essentielle face à un usager pressé, inquiet ou mécontent."
+  },
+  {
+   "id": "communication-profession-07",
+   "cat": "cours",
+   "module": "Communication professionnelle",
+   "question": "Lequel fait partie de l'écoute active ?",
+   "reponse": "Poser des questions clarificatrices",
+   "faux": [
+    "Préparer sa réponse pendant que l'autre parle",
+    "Compléter les phrases du patient pour gagner du temps",
+    "Éviter le contact visuel pour ne pas gêner"
+   ],
+   "explication": "Aussi : maintenir un contact visuel, éviter d'interrompre, montrer qu'on a compris."
+  },
+  {
+   "id": "communication-profession-08",
+   "cat": "cours",
+   "module": "Communication professionnelle",
+   "question": "Au téléphone, sur quoi faut-il être particulièrement attentif ?",
+   "reponse": "L'intonation, le débit et l'articulation, car la voix remplace le regard",
+   "faux": [
+    "La longueur de l'appel, qui doit rester sous 2 minutes",
+    "Le vocabulaire médical, pour paraître professionnel",
+    "La prise de note, qui passe avant l'écoute"
+   ],
+   "explication": "Le sourire s'entend."
+  },
+  {
+   "id": "communication-profession-09",
+   "cat": "cours",
+   "module": "Communication professionnelle",
+   "question": "Un écrit professionnel doit être…",
+   "reponse": "Clair, court, correct, précis et traçable",
+   "faux": [
+    "Détaillé, chaleureux et personnalisé",
+    "Court, informel et rapide à écrire",
+    "Technique, complet et confidentiel"
+   ],
+   "explication": "Éviter le flou et la familiarité."
+  },
+  {
+   "id": "communication-profession-10",
+   "cat": "cours",
+   "module": "Communication professionnelle",
+   "question": "Face à une situation tendue, quel réflexe ne fait PAS partie de ceux du cours ?",
+   "reponse": "Hausser le ton pour reprendre le contrôle",
+   "faux": [
+    "Garder une voix posée",
+    "Reformuler la demande",
+    "Proposer une solution ou un relais"
+   ],
+   "explication": "Aussi : écouter la demande, éviter la confrontation, rester dans son rôle."
+  },
+  {
+   "id": "communication-profession-11",
+   "cat": "cours",
+   "module": "Communication professionnelle",
+   "question": "Que doit contenir la signature d'un mail professionnel ?",
+   "reponse": "Nom, prénom, fonction, téléphone et logo",
+   "faux": [
+    "Nom, prénom et date du jour",
+    "Fonction et numéro de dossier du patient",
+    "Prénom et formule de politesse"
+   ]
+  },
+  {
+   "id": "prise-en-compte-du-handi-01",
+   "cat": "cours",
+   "module": "Prise en compte du handicap",
+   "question": "Quelle loi a instauré l'accessibilité généralisée à tous les handicaps ?",
+   "reponse": "La loi du 11 février 2005",
+   "faux": [
+    "La loi du 30 juin 1975",
+    "La loi du 4 mars 2002",
+    "La loi du 26 janvier 2016"
+   ],
+   "explication": "La loi de 1975 (Simone Veil) avait redéfini la place des personnes handicapées et structuré le système médico-éducatif."
+  },
+  {
+   "id": "prise-en-compte-du-handi-02",
+   "cat": "cours",
+   "module": "Prise en compte du handicap",
+   "question": "Quelle part des handicaps ne sont pas visibles ?",
+   "reponse": "80 %",
+   "faux": [
+    "20 %",
+    "50 %",
+    "65 %"
+   ],
+   "explication": "Et 85 % des situations sont liées à un accident de la vie."
+  },
+  {
+   "id": "prise-en-compte-du-handi-03",
+   "cat": "cours",
+   "module": "Prise en compte du handicap",
+   "question": "Laquelle de ces catégories n'est PAS une famille de handicap ?",
+   "reponse": "L'ALD",
+   "faux": [
+    "Le handicap psychique",
+    "Les maladies invalidantes",
+    "Le handicap intellectuel"
+   ],
+   "explication": "L'ALD est un statut administratif de prise en charge, pas une catégorie de handicap. Les 6 familles : moteur, visuel/auditif, psychique, cognitif, intellectuel, maladies invalidantes."
+  },
+  {
+   "id": "prise-en-compte-du-handi-04",
+   "cat": "cours",
+   "module": "Prise en compte du handicap",
+   "question": "La dyslexie relève de quelle famille de handicap ?",
+   "reponse": "Cognitif",
+   "faux": [
+    "Psychique",
+    "Intellectuel",
+    "Moteur"
+   ],
+   "explication": "Psychique : ex. bipolarité. Intellectuel : ex. trisomie 21."
+  },
+  {
+   "id": "prise-en-compte-du-handi-05",
+   "cat": "cours",
+   "module": "Prise en compte du handicap",
+   "question": "Quel est le premier des 6 réflexes du SAMA face à une personne en situation de handicap ?",
+   "reponse": "Accueillir la personne directement",
+   "faux": [
+    "S'adresser d'abord à l'aidant",
+    "Proposer une fiche FALC",
+    "Prévenir le référent handicap"
+   ],
+   "explication": "Les 6 réflexes : accueillir la personne directement, parler clairement et simplement, vérifier les besoins d'accessibilité, prévenir et coordonner en amont, respecter le rythme/la confidentialité/la dignité, orienter vers le bon interlocuteur."
+  },
+  {
+   "id": "prise-en-compte-du-handi-06",
+   "cat": "cours",
+   "module": "Prise en compte du handicap",
+   "question": "Lequel ne fait PAS partie des 6 réflexes du SAMA face au handicap ?",
+   "reponse": "Adapter l'infrastructure des locaux",
+   "faux": [
+    "Vérifier les besoins d'accessibilité",
+    "Orienter vers le bon interlocuteur",
+    "Respecter le rythme, la confidentialité et la dignité"
+   ],
+   "explication": "L'aménagement des locaux relève de l'axe accessibilité, vu séparément."
+  },
+  {
+   "id": "prise-en-compte-du-handi-07",
+   "cat": "cours",
+   "module": "Prise en compte du handicap",
+   "question": "Quels sont les 4 axes de l'accessibilité ?",
+   "reponse": "Accès, information, coordination, adaptation du parcours",
+   "faux": [
+    "Accueil, orientation, transmission, suivi",
+    "Locaux, téléphone, numérique, signalétique",
+    "Écoute, reformulation, orientation, traçabilité"
+   ]
+  },
+  {
+   "id": "prise-en-compte-du-handi-08",
+   "cat": "cours",
+   "module": "Prise en compte du handicap",
+   "question": "Avec un aidant présent, qui reste l'interlocuteur principal ?",
+   "reponse": "La personne concernée",
+   "faux": [
+    "L'aidant",
+    "Le référent handicap",
+    "Le médecin traitant"
+   ],
+   "explication": "L'aidant peut aider mais ne remplace pas la personne. Ne pas infantiliser."
+  },
+  {
+   "id": "prise-en-compte-du-handi-09",
+   "cat": "cours",
+   "module": "Prise en compte du handicap",
+   "question": "Que signifie FALC ?",
+   "reponse": "Facile à lire et à comprendre",
+   "faux": [
+    "Fiche d'accueil et de liaison clinique",
+    "Formulaire d'accessibilité des locaux",
+    "Fiche d'accompagnement longue durée"
+   ]
+  },
+  {
+   "id": "prise-en-compte-du-handi-10",
+   "cat": "cours",
+   "module": "Prise en compte du handicap",
+   "question": "Lors de la prise de RDV d'une personne en situation de handicap, que peut-on prévoir ?",
+   "reponse": "Un créneau plus long ou réparti sur plusieurs RDV",
+   "faux": [
+    "Le premier créneau du matin, systématiquement",
+    "Un RDV uniquement en présence d'un aidant",
+    "Un créneau en fin de journée pour éviter l'affluence"
+   ],
+   "explication": "Demander aussi les besoins particuliers : accessibilité, accompagnant, chien guide, communication."
+  },
+  {
+   "id": "prise-en-compte-du-handi-11",
+   "cat": "cours",
+   "module": "Prise en compte du handicap",
+   "question": "Laquelle de ces formulations est à éviter ?",
+   "reponse": "« Je vous ai déjà expliqué »",
+   "faux": [
+    "« Souhaitez-vous que je reformule ? »",
+    "« Je vais prévenir le service »",
+    "« Merci de m'indiquer si vous avez besoin d'aide »"
+   ],
+   "explication": "À éviter aussi : « C'est comme ça », « Vous n'avez qu'à attendre »."
+  },
+  {
+   "id": "prise-en-compte-du-handi-12",
+   "cat": "cours",
+   "module": "Prise en compte du handicap",
+   "question": "Pour le SAMA, la relation avec les aidants se résume en 4 verbes. Lesquels ?",
+   "reponse": "Observer, alerter, transmettre, faciliter",
+   "faux": [
+    "Accueillir, écouter, orienter, accompagner",
+    "Vérifier, reformuler, tracer, transmettre",
+    "Informer, rassurer, expliquer, conclure"
+   ]
+  },
+  {
+   "id": "dossier-medical-du-patie-01",
+   "cat": "cours",
+   "module": "Dossier médical du patient",
+   "question": "Quand le dossier du patient est-il créé ?",
+   "reponse": "Au premier contact du patient avec l'établissement",
+   "faux": [
+    "À la première hospitalisation uniquement",
+    "Quand le médecin traitant le demande",
+    "À la sortie du patient, en fin de séjour"
+   ],
+   "explication": "Consultation externe ou hospitalisation. Il s'enrichit ensuite à chaque intervention."
+  },
+  {
+   "id": "dossier-medical-du-patie-02",
+   "cat": "cours",
+   "module": "Dossier médical du patient",
+   "question": "Au sein d'un même établissement, combien de dossiers a un patient ?",
+   "reponse": "Un seul, consulté par tous les services qui le prennent en charge",
+   "faux": [
+    "Un par service fréquenté, chacun gérant le sien",
+    "Un par hospitalisation, archivé à chaque sortie",
+    "Deux : un dossier papier et un dossier numérique"
+   ],
+   "explication": "En revanche, il a un dossier par professionnel de santé qui le suit en ville."
+  },
+  {
+   "id": "dossier-medical-du-patie-03",
+   "cat": "cours",
+   "module": "Dossier médical du patient",
+   "question": "Qui gère le DMP ?",
+   "reponse": "L'Assurance Maladie",
+   "faux": [
+    "Le médecin traitant",
+    "L'établissement de santé",
+    "L'ARS"
+   ],
+   "explication": "Le DMP est un espace sécurisé que le patient partage avec les pros qui le suivent. À ne pas confondre avec le dossier médical."
+  },
+  {
+   "id": "dossier-medical-du-patie-04",
+   "cat": "cours",
+   "module": "Dossier médical du patient",
+   "question": "Quelle loi a créé le DMP ?",
+   "reponse": "La loi du 26 janvier 2016",
+   "faux": [
+    "La loi du 4 mars 2002",
+    "La loi du 11 février 2005",
+    "L'arrêté du 5 mars 2004"
+   ],
+   "explication": "La loi du 4 mars 2002 a créé le droit d'accès direct du patient à ses informations de santé."
+  },
+  {
+   "id": "dossier-medical-du-patie-05",
+   "cat": "cours",
+   "module": "Dossier médical du patient",
+   "question": "Que permet la loi du 4 mars 2002 ?",
+   "reponse": "L'accès direct du patient à ses informations de santé",
+   "faux": [
+    "La création du DMP géré par l'Assurance maladie",
+    "La création des agences régionales de santé (ARS)",
+    "L'accessibilité des établissements recevant du public"
+   ]
+  },
+  {
+   "id": "dossier-medical-du-patie-06",
+   "cat": "cours",
+   "module": "Dossier médical du patient",
+   "question": "Quelles catégories d'informations du dossier peuvent être communiquées ?",
+   "reponse": "Les catégories 1 et 2",
+   "faux": [
+    "Les 3 catégories",
+    "Uniquement la catégorie 1",
+    "Les catégories 2 et 3"
+   ],
+   "explication": "La catégorie 3 (infos recueillies auprès de tiers ne participant pas à la prise en charge) n'est pas communicable."
+  },
+  {
+   "id": "dossier-medical-du-patie-07",
+   "cat": "cours",
+   "module": "Dossier médical du patient",
+   "question": "La lettre de liaison et les ordonnances de sortie appartiennent à quelle catégorie d'informations ?",
+   "reponse": "Catégorie 2 : informations formalisées en fin de séjour",
+   "faux": [
+    "Catégorie 1 : informations recueillies à l'admission",
+    "Catégorie 3 : informations recueillies auprès de tiers",
+    "Aucune, elles ne font pas partie du dossier"
+   ]
+  },
+  {
+   "id": "dossier-medical-du-patie-08",
+   "cat": "cours",
+   "module": "Dossier médical du patient",
+   "question": "Un patient mineur demande le secret sur ses soins. Son représentant légal peut-il consulter le dossier ?",
+   "reponse": "Non, le secret demandé par le mineur s'applique",
+   "faux": [
+    "Oui, toujours, puisqu'il est mineur",
+    "Oui, mais seulement avec l'accord du médecin",
+    "Oui, s'il en fait la demande écrite"
+   ]
+  },
+  {
+   "id": "dossier-medical-du-patie-09",
+   "cat": "cours",
+   "module": "Dossier médical du patient",
+   "question": "Après un décès, à quelle condition un ayant droit peut-il accéder au dossier ?",
+   "reponse": "Si le défunt ne s'y était pas opposé, et avec un motif",
+   "faux": [
+    "Sans condition, dès le décès",
+    "Uniquement sur décision d'un juge",
+    "Uniquement si le décès a eu lieu à l'hôpital"
+   ],
+   "explication": "Motifs : connaître les causes du décès, défendre la mémoire du défunt, faire valoir ses droits."
+  },
+  {
+   "id": "dossier-medical-du-patie-10",
+   "cat": "cours",
+   "module": "Dossier médical du patient",
+   "question": "Une personne sous curatelle peut-elle consulter elle-même son dossier ?",
+   "reponse": "Oui",
+   "faux": [
+    "Non, seul le curateur peut le faire",
+    "Non, seulement par l'intermédiaire d'un médecin",
+    "Oui, mais uniquement en présence du curateur"
+   ]
+  },
+  {
+   "id": "dossier-medical-du-patie-11",
+   "cat": "cours",
+   "module": "Dossier médical du patient",
+   "question": "En établissement de santé, qui est responsable de la conservation des dossiers ?",
+   "reponse": "L'établissement",
+   "faux": [
+    "Le médecin qui a établi le dossier",
+    "Le patient",
+    "L'ARS"
+   ],
+   "explication": "En ville, c'est le médecin qui est responsable des dossiers qu'il a établis."
+  },
+  {
+   "id": "dossier-medical-du-patie-12",
+   "cat": "cours",
+   "module": "Dossier médical du patient",
+   "question": "La conservation du dossier doit garantir…",
+   "reponse": "Accessibilité, intégrité, confidentialité",
+   "faux": [
+    "Rapidité, gratuité, accessibilité",
+    "Traçabilité, anonymat, archivage papier",
+    "Confidentialité, destruction après 5 ans, sauvegarde"
+   ]
+  },
+  {
+   "id": "systeme-de-sante-01",
+   "cat": "cours",
+   "module": "Système de santé",
+   "question": "Que vote le Parlement chaque année ?",
+   "reponse": "La LFSS (loi de financement de la sécurité sociale)",
+   "faux": [
+    "Le PRS (projet régional de santé) de chaque région",
+    "La convention médicale avec les syndicats de médecins",
+    "Le budget annuel de chaque agence régionale de santé"
+   ],
+   "explication": "Elle fixe l'objectif national de dépenses d'assurance maladie."
+  },
+  {
+   "id": "systeme-de-sante-02",
+   "cat": "cours",
+   "module": "Système de santé",
+   "question": "En quelle année la HAS a-t-elle été créée ?",
+   "reponse": "2004",
+   "faux": [
+    "2002",
+    "2009",
+    "1945"
+   ],
+   "explication": "Les ARS datent de 2009."
+  },
+  {
+   "id": "systeme-de-sante-03",
+   "cat": "cours",
+   "module": "Système de santé",
+   "question": "Quelles sont les 3 valeurs de la HAS ?",
+   "reponse": "Rigueur scientifique, indépendance, transparence",
+   "faux": [
+    "Solidarité, universalité, égalité d'accès",
+    "Qualité, sécurité et efficacité des soins",
+    "Prévention, régulation et contrôle des coûts"
+   ]
+  },
+  {
+   "id": "systeme-de-sante-04",
+   "cat": "cours",
+   "module": "Système de santé",
+   "question": "Que fait la HAS ?",
+   "reponse": "Elle certifie les hôpitaux et cliniques et élabore des recommandations de bonne pratique",
+   "faux": [
+    "Elle fixe les tarifs des consultations et des actes techniques en ville",
+    "Elle verse les remboursements aux assurés et aux établissements de santé",
+    "Elle répartit les médecins et les budgets entre les différentes régions"
+   ]
+  },
+  {
+   "id": "systeme-de-sante-05",
+   "cat": "cours",
+   "module": "Système de santé",
+   "question": "Quels sont les 3 volets du PRS ?",
+   "reponse": "COS, SRS, PRAPS",
+   "faux": [
+    "HAS, ARS, CPAM",
+    "RUM, RSS, RSA",
+    "COS, CME, CDU"
+   ],
+   "explication": "COS : cadre d'orientation stratégique. SRS : schéma régional de santé. PRAPS : programme régional d'accès à la prévention et aux soins."
+  },
+  {
+   "id": "systeme-de-sante-06",
+   "cat": "cours",
+   "module": "Système de santé",
+   "question": "Le PRAPS s'adresse en priorité…",
+   "reponse": "Aux publics démunis",
+   "faux": [
+    "Aux personnes âgées dépendantes",
+    "Aux établissements privés",
+    "Aux professionnels libéraux"
+   ]
+  },
+  {
+   "id": "systeme-de-sante-07",
+   "cat": "cours",
+   "module": "Système de santé",
+   "question": "Quel échelon gère les centres de PMI ?",
+   "reponse": "Le département",
+   "faux": [
+    "La commune",
+    "La région (ARS)",
+    "L'État (ministère)"
+   ],
+   "explication": "Les communes gèrent le service communal d'hygiène et de santé (vaccinations, désinfection)."
+  },
+  {
+   "id": "systeme-de-sante-08",
+   "cat": "cours",
+   "module": "Système de santé",
+   "question": "Les soins de second recours, ce sont…",
+   "reponse": "Les médecins spécialistes",
+   "faux": [
+    "Le médecin généraliste",
+    "Les établissements de santé",
+    "Les urgences hospitalières"
+   ],
+   "explication": "1er recours : généraliste. 3e recours : établissement de santé ou structure adaptée."
+  },
+  {
+   "id": "systeme-de-sante-09",
+   "cat": "cours",
+   "module": "Système de santé",
+   "question": "Qu'est-ce qu'un ESPIC ?",
+   "reponse": "Un établissement privé à but non lucratif, sans dépassement d'honoraires",
+   "faux": [
+    "Une clinique privée à but lucratif, avec activité libérale",
+    "Un hôpital public universitaire rattaché à une faculté",
+    "Un établissement médico-social qui accueille des personnes âgées"
+   ],
+   "explication": "Exemple : les centres de lutte contre le cancer."
+  },
+  {
+   "id": "systeme-de-sante-10",
+   "cat": "cours",
+   "module": "Système de santé",
+   "question": "À partir de quand une infection est-elle considérée comme nosocomiale si l'état infectieux à l'admission est inconnu ?",
+   "reponse": "Après 48 h d'hospitalisation",
+   "faux": [
+    "Après 24 h d'hospitalisation",
+    "Après 72 h d'hospitalisation",
+    "Après 7 jours d'hospitalisation"
+   ],
+   "explication": "C'est un seuil indicatif, pas systématique."
+  },
+  {
+   "id": "systeme-de-sante-11",
+   "cat": "cours",
+   "module": "Système de santé",
+   "question": "Que signifie HAD ?",
+   "reponse": "Hospitalisation à domicile",
+   "faux": [
+    "Hébergement d'accueil de jour",
+    "Hôpital d'aide au diagnostic",
+    "Habilitation à l'aide à domicile"
+   ]
+  },
+  {
+   "id": "systeme-de-sante-12",
+   "cat": "cours",
+   "module": "Système de santé",
+   "question": "La chirurgie ambulatoire, c'est une prise en charge en…",
+   "reponse": "12 h maximum",
+   "faux": [
+    "24 h maximum",
+    "48 h maximum",
+    "6 h maximum"
+   ]
+  },
+  {
+   "id": "systeme-de-sante-13",
+   "cat": "cours",
+   "module": "Système de santé",
+   "question": "Quel dispositif couvre toute personne résidant en France de façon stable et régulière, sans condition de ressources ?",
+   "reponse": "La PUMA (protection universelle maladie)",
+   "faux": [
+    "Le RSA (revenu de solidarité active)",
+    "La CSS (complémentaire santé solidaire)",
+    "L'AME (aide médicale de l'État)"
+   ]
+  },
+  {
+   "id": "systeme-de-sante-14",
+   "cat": "cours",
+   "module": "Système de santé",
+   "question": "Dans un numéro de sécurité sociale, que signifie le code département 99 ?",
+   "reponse": "Né à l'étranger",
+   "faux": [
+    "Né dans les DOM-TOM",
+    "Département inconnu",
+    "Né en Corse"
+   ],
+   "explication": "Le 1er chiffre indique le sexe (1 homme, 2 femme), puis année, mois, département, commune, ordre d'enregistrement et clé."
+  },
+  {
+   "id": "gestion-des-rdv-et-urgen-01",
+   "cat": "cours",
+   "module": "Gestion des RDV et urgences",
+   "question": "À quoi sert le créneau d'urgence laissé libre dans l'agenda ?",
+   "reponse": "À accueillir une urgence, ou à rattraper le retard s'il n'est pas utilisé",
+   "faux": [
+    "À caser les patients qui se présentent sans rendez-vous dans la journée",
+    "À laisser au médecin un temps de pause entre deux séries de consultations",
+    "À placer les rendez-vous de dernière minute des patients réguliers"
+   ]
+  },
+  {
+   "id": "gestion-des-rdv-et-urgen-02",
+   "cat": "cours",
+   "module": "Gestion des RDV et urgences",
+   "question": "Douleur thoracique, détresse respiratoire, signes neurologiques aigus : quel niveau de priorité ?",
+   "reponse": "Niveau 1 : urgent, aujourd'hui ou dans les 24 h",
+   "faux": [
+    "Niveau 2 : prioritaire, sous 3 à 7 jours",
+    "Niveau 3 : non urgent, au-delà de 7 jours",
+    "Aucun : le SAMA réoriente sans planifier"
+   ],
+   "explication": "Et il faut en référer immédiatement au médecin."
+  },
+  {
+   "id": "gestion-des-rdv-et-urgen-03",
+   "cat": "cours",
+   "module": "Gestion des RDV et urgences",
+   "question": "Une fin d'ordonnance pour une maladie chronique relève de quel niveau ?",
+   "reponse": "Niveau 2 : prioritaire, sous 3 à 7 jours",
+   "faux": [
+    "Niveau 1 : urgent, sous 24 h",
+    "Niveau 3 : non urgent, au-delà de 7 jours",
+    "Aucun niveau, c'est un renouvellement simple"
+   ]
+  },
+  {
+   "id": "gestion-des-rdv-et-urgen-04",
+   "cat": "cours",
+   "module": "Gestion des RDV et urgences",
+   "question": "Quel est le délai cible pour un RDV de niveau 3 (non urgent) ?",
+   "reponse": "Plus de 7 jours",
+   "faux": [
+    "Sous 24 h",
+    "Sous 3 jours",
+    "Sous 3 à 7 jours"
+   ],
+   "explication": "Exemples : suivi stable, renouvellement simple, prévention, certificat."
+  },
+  {
+   "id": "gestion-des-rdv-et-urgen-05",
+   "cat": "cours",
+   "module": "Gestion des RDV et urgences",
+   "question": "En l'absence du médecin, un patient décrit des symptômes qui inquiètent le SAMA. Que fait-il ?",
+   "reponse": "Il l'oriente vers les urgences, SOS Médecins ou le SAMU",
+   "faux": [
+    "Il évalue la gravité et lui donne un RDV en conséquence",
+    "Il lui conseille d'attendre le retour du médecin",
+    "Il lui donne le premier créneau disponible"
+   ],
+   "explication": "Le SAMA n'a ni la compétence ni la responsabilité de juger la gravité."
+  },
+  {
+   "id": "gestion-des-rdv-et-urgen-06",
+   "cat": "cours",
+   "module": "Gestion des RDV et urgences",
+   "question": "Que doit-on éviter d'inscrire dans l'agenda ?",
+   "reponse": "Des informations médicales trop détaillées",
+   "faux": [
+    "Le motif du RDV sous forme de code",
+    "La durée prévue du RDV",
+    "Le numéro de téléphone du patient"
+   ],
+   "explication": "On utilise des abréviations ou codes internes pour la confidentialité."
+  },
+  {
+   "id": "gestion-des-rdv-et-urgen-07",
+   "cat": "cours",
+   "module": "Gestion des RDV et urgences",
+   "question": "Comment prévenir les RDV non honorés ?",
+   "reponse": "Relancer par SMS ou téléphone, par exemple 48 h avant",
+   "faux": [
+    "Facturer systématiquement les RDV manqués",
+    "Refuser un nouveau RDV après une absence",
+    "Donner des RDV seulement à moins d'une semaine"
+   ]
+  },
+  {
+   "id": "gestion-des-rdv-et-urgen-08",
+   "cat": "cours",
+   "module": "Gestion des RDV et urgences",
+   "question": "Un patient annule ou ne vient pas sans prévenir. Que fait le SAMA ?",
+   "reponse": "Il le note dans la fiche patient, avec le motif s'il est connu",
+   "faux": [
+    "Il retire le patient de la patientèle de la structure",
+    "Il signale l'absence à la CPAM pour qu'elle le sanctionne",
+    "Il ne note rien pour ne pas pénaliser le patient ensuite"
+   ],
+   "explication": "Ça permet aussi de repérer les abus."
+  },
+  {
+   "id": "gestion-des-rdv-et-urgen-09",
+   "cat": "cours",
+   "module": "Gestion des RDV et urgences",
+   "question": "Un patient arrive en retard. Quelle est la bonne réaction ?",
+   "reponse": "Le replacer plus tard dans la journée",
+   "faux": [
+    "Le recevoir tout de suite en décalant tout le monde",
+    "Annuler son RDV automatiquement",
+    "Le faire attendre la fin des consultations sans le prévenir"
+   ]
+  },
+  {
+   "id": "gestion-des-rdv-et-urgen-10",
+   "cat": "cours",
+   "module": "Gestion des RDV et urgences",
+   "question": "Quelle est la première étape face à un imprévu ?",
+   "reponse": "Identifier sa nature : médical, organisationnel ou technique",
+   "faux": [
+    "Prévenir immédiatement tous les patients de la journée",
+    "Annuler les rendez-vous de l'après-midi par précaution",
+    "Noter directement la modification dans l'agenda partagé"
+   ],
+   "explication": "Ensuite : informer le pro concerné, chercher des solutions, expliquer au patient, noter les modifications."
+  },
+  {
+   "id": "gestion-des-rdv-et-urgen-11",
+   "cat": "cours",
+   "module": "Gestion des RDV et urgences",
+   "question": "Le médecin doit partir plus tôt que prévu. Que fait le SAMA ?",
+   "reponse": "Il ajuste les derniers créneaux et informe les patients sans promettre d'horaire",
+   "faux": [
+    "Il reçoit lui-même les derniers patients pour les faire patienter",
+    "Il garde les rendez-vous prévus en espérant que le médecin revienne",
+    "Il annule tous les rendez-vous de la journée et les reprogramme"
+   ]
+  },
+  {
+   "id": "gestion-des-rdv-et-urgen-12",
+   "cat": "cours",
+   "module": "Gestion des RDV et urgences",
+   "question": "Comment résumer le rôle du SAMA dans la gestion des RDV ?",
+   "reponse": "Informer, prioriser, communiquer, alerter, réorganiser, sans décision médicale",
+   "faux": [
+    "Évaluer l'urgence médicale de chaque demande et planifier en conséquence",
+    "Appliquer en priorité les demandes et les préférences horaires des patients",
+    "Remplir l'agenda au maximum pour éviter tout créneau vide dans la journée"
+   ]
+  },
+  {
+   "id": "coordination-avec-les-eq-01",
+   "cat": "cours",
+   "module": "Coordination avec les équipes",
+   "question": "Le SAMA ne comprend pas totalement une consigne médicale. Que fait-il ?",
+   "reponse": "Il la fait confirmer, la reformule et la transmet selon la procédure",
+   "faux": [
+    "Il l'applique au mieux selon ce qu'il a compris",
+    "Il l'adapte pour la rendre plus claire au patient",
+    "Il la laisse de côté jusqu'à la fin de la journée"
+   ],
+   "explication": "Le SAMA n'interprète pas une consigne médicale : il vérifie, reformule et transmet."
+  },
+  {
+   "id": "coordination-avec-les-eq-02",
+   "cat": "cours",
+   "module": "Coordination avec les équipes",
+   "question": "Qu'est-ce que l'identitovigilance ?",
+   "reponse": "La prévention des erreurs d'identification des patients",
+   "faux": [
+    "La lutte contre la fraude à la carte Vitale",
+    "Le contrôle des accès au dossier médical",
+    "La vérification des droits du patient"
+   ],
+   "explication": "Elle vise à éviter les confusions, les homonymies, les erreurs de dossier et les mauvaises affectations de résultats."
+  },
+  {
+   "id": "coordination-avec-les-eq-03",
+   "cat": "cours",
+   "module": "Coordination avec les équipes",
+   "question": "Pour distinguer deux homonymes, que vérifie-t-on ?",
+   "reponse": "La date de naissance et le numéro de sécurité sociale",
+   "faux": [
+    "L'adresse postale et le numéro de téléphone",
+    "Le nom du médecin traitant et la date du dernier RDV",
+    "La mutuelle du patient et son numéro d'adhérent"
+   ],
+   "explication": "Penser aussi au nom de naissance."
+  },
+  {
+   "id": "coordination-avec-les-eq-04",
+   "cat": "cours",
+   "module": "Coordination avec les équipes",
+   "question": "Lequel n'est PAS un des 8 réflexes du SAMA en coordination ?",
+   "reponse": "Donner son avis sur la prise en charge",
+   "faux": [
+    "Identifier le bon interlocuteur",
+    "Signaler toute incohérence",
+    "Tracer les transmissions utiles"
+   ],
+   "explication": "Les 8 : vérifier l'identité, identifier le bon interlocuteur, reformuler, prioriser selon l'urgence, respecter la confidentialité, tracer, signaler les incohérences, adapter sa communication."
+  },
+  {
+   "id": "coordination-avec-les-eq-05",
+   "cat": "cours",
+   "module": "Coordination avec les équipes",
+   "question": "Quel est l'ordre du mémo express ?",
+   "reponse": "Je vérifie → je reformule → je transmets au bon interlocuteur → je trace → je respecte la confidentialité",
+   "faux": [
+    "Je transmets → je vérifie → je trace → je reformule → je respecte la confidentialité",
+    "Je reformule → je trace → je vérifie → je transmets → je respecte la confidentialité",
+    "Je trace → je transmets → je reformule → je vérifie → je respecte la confidentialité"
+   ]
+  },
+  {
+   "id": "coordination-avec-les-eq-06",
+   "cat": "cours",
+   "module": "Coordination avec les équipes",
+   "question": "Pourquoi tracer les informations importantes ?",
+   "reponse": "Pour assurer le suivi, et ça protège aussi le SAMA",
+   "faux": [
+    "Uniquement pour la facturation",
+    "Parce que le patient peut demander une copie",
+    "Pour que le médecin n'ait pas à relire le dossier"
+   ]
+  },
+  {
+   "id": "coordination-avec-les-eq-07",
+   "cat": "cours",
+   "module": "Coordination avec les équipes",
+   "question": "Quelle erreur est à éviter en coordination ?",
+   "reponse": "Donner un avis personnel au lieu d'appliquer la procédure",
+   "faux": [
+    "Demander la procédure interne dès le premier jour",
+    "Reformuler la demande avant de la transmettre",
+    "Vérifier l'adresse mail du destinataire"
+   ],
+   "explication": "Autres erreurs : transmettre trop vite, oublier de tracer, parler devant des personnes non autorisées, mélanger deux dossiers."
+  },
+  {
+   "id": "coordination-avec-les-eq-08",
+   "cat": "cours",
+   "module": "Coordination avec les équipes",
+   "question": "À quoi sert une checklist ?",
+   "reponse": "À être sûr de penser à tous les éléments d'une tâche",
+   "faux": [
+    "À planifier les tâches de la semaine et leur durée",
+    "À partager les disponibilités de l'équipe",
+    "À tracer les appels reçus"
+   ],
+   "explication": "La to-do list sert à planifier et suivre (tâches, temps, avancement)."
+  },
+  {
+   "id": "coordination-avec-les-eq-09",
+   "cat": "cours",
+   "module": "Coordination avec les équipes",
+   "question": "Pour préparer une réunion, que fait-on à J-15 ?",
+   "reponse": "Fixer la date et lister les participants",
+   "faux": [
+    "Envoyer la convocation aux participants",
+    "Réserver la salle de réunion",
+    "Préparer le matériel nécessaire"
+   ],
+   "explication": "J-12 : salle. J-10 : ordre du jour et convocation. J-1 : matériel."
+  },
+  {
+   "id": "coordination-avec-les-eq-10",
+   "cat": "cours",
+   "module": "Coordination avec les équipes",
+   "question": "À quoi est connecté le logiciel métier ?",
+   "reponse": "Au DMP",
+   "faux": [
+    "À la BDO",
+    "Au PMSI",
+    "Au logiciel de la mutuelle"
+   ],
+   "explication": "Il permet le partage d'informations et la coordination, dans la structure ou en dehors."
+  },
+  {
+   "id": "terminologie-et-anatomie-01",
+   "cat": "cours",
+   "module": "Terminologie et anatomie",
+   "question": "Dans un mot médical, quel élément indique l'organe ou la partie du corps ?",
+   "reponse": "Le radical (racine)",
+   "faux": [
+    "Le préfixe",
+    "Le suffixe",
+    "La terminaison"
+   ],
+   "explication": "Le préfixe modifie le sens (quantité, position, vitesse…), le suffixe précise l'action ou l'état."
+  },
+  {
+   "id": "terminologie-et-anatomie-02",
+   "cat": "cours",
+   "module": "Terminologie et anatomie",
+   "question": "Qu'est-ce que la posologie ?",
+   "reponse": "Le dosage, le rythme et le mode d'administration d'un médicament",
+   "faux": [
+    "La prévision de l'évolution d'une maladie dans le temps",
+    "L'ensemble des manifestations et des symptômes d'une maladie",
+    "L'identification d'une maladie par l'interrogatoire et l'examen"
+   ]
+  },
+  {
+   "id": "terminologie-et-anatomie-03",
+   "cat": "cours",
+   "module": "Terminologie et anatomie",
+   "question": "Qu'est-ce que le pronostic ?",
+   "reponse": "La prévision de l'évolution d'une maladie",
+   "faux": [
+    "L'identification de la maladie",
+    "Le traitement prescrit",
+    "Les antécédents du patient"
+   ],
+   "explication": "Le diagnostic, c'est identifier la maladie."
+  },
+  {
+   "id": "terminologie-et-anatomie-04",
+   "cat": "cours",
+   "module": "Terminologie et anatomie",
+   "question": "« Distal » signifie…",
+   "reponse": "Loin de la racine du membre",
+   "faux": [
+    "Proche de la racine du membre",
+    "Proche de l'axe du corps",
+    "Sur l'axe du corps"
+   ],
+   "explication": "Proximal = proche de la racine du membre."
+  },
+  {
+   "id": "terminologie-et-anatomie-05",
+   "cat": "cours",
+   "module": "Terminologie et anatomie",
+   "question": "Quel plan sépare la droite et la gauche du corps ?",
+   "reponse": "Le plan sagittal",
+   "faux": [
+    "Le plan frontal",
+    "Le plan transversal",
+    "Le plan médian horizontal"
+   ],
+   "explication": "Frontal : avant/arrière. Transversal : haut/bas."
+  },
+  {
+   "id": "terminologie-et-anatomie-06",
+   "cat": "cours",
+   "module": "Terminologie et anatomie",
+   "question": "Dans la position anatomique de référence, les paumes sont…",
+   "reponse": "Tournées vers l'avant",
+   "faux": [
+    "Tournées vers le corps",
+    "Tournées vers l'arrière",
+    "Posées sur les cuisses"
+   ],
+   "explication": "Debout, regard horizontal, bras le long du corps, pieds à plat."
+  },
+  {
+   "id": "terminologie-et-anatomie-07",
+   "cat": "cours",
+   "module": "Terminologie et anatomie",
+   "question": "Quel est le plus grand organe du corps ?",
+   "reponse": "La peau",
+   "faux": [
+    "Le foie",
+    "Les intestins",
+    "Les poumons"
+   ],
+   "explication": "3 couches : épiderme, derme, hypoderme."
+  },
+  {
+   "id": "terminologie-et-anatomie-08",
+   "cat": "cours",
+   "module": "Terminologie et anatomie",
+   "question": "Combien de litres de sang les reins filtrent-ils par jour ?",
+   "reponse": "Environ 120 L",
+   "faux": [
+    "Environ 12 L",
+    "Environ 1 à 2 L",
+    "Environ 8 000 L"
+   ],
+   "explication": "Ils produisent 1 à 2 L d'urine par jour. Le cœur, lui, distribue environ 8 000 L de sang par jour."
+  },
+  {
+   "id": "terminologie-et-anatomie-09",
+   "cat": "cours",
+   "module": "Terminologie et anatomie",
+   "question": "Les veines transportent le sang…",
+   "reponse": "Vers le cœur",
+   "faux": [
+    "Depuis le cœur",
+    "Vers les poumons uniquement",
+    "Vers les reins"
+   ],
+   "explication": "Les artères partent du cœur."
+  },
+  {
+   "id": "terminologie-et-anatomie-10",
+   "cat": "cours",
+   "module": "Terminologie et anatomie",
+   "question": "Quel organe fabrique la bile ?",
+   "reponse": "Le foie",
+   "faux": [
+    "Le pancréas",
+    "La rate",
+    "La vésicule"
+   ]
+  },
+  {
+   "id": "terminologie-et-anatomie-11",
+   "cat": "cours",
+   "module": "Terminologie et anatomie",
+   "question": "Combien d'os compte le squelette ?",
+   "reponse": "206",
+   "faux": [
+    "106",
+    "260",
+    "306"
+   ]
+  },
+  {
+   "id": "terminologie-et-anatomie-12",
+   "cat": "cours",
+   "module": "Terminologie et anatomie",
+   "question": "Que contient la cavité pelvienne ?",
+   "reponse": "Les organes urinaires et reproducteurs",
+   "faux": [
+    "Les organes digestifs (estomac, intestins)",
+    "Le cœur et les poumons",
+    "Le cerveau et le cervelet"
+   ]
+  },
+  {
+   "id": "vocabulaire-par-speciali-01",
+   "cat": "cours",
+   "module": "Vocabulaire par spécialité",
+   "question": "Que signifie « dyspnée » ?",
+   "reponse": "Difficulté à respirer",
+   "faux": [
+    "Difficulté à avaler",
+    "Perception anormale des battements du cœur",
+    "Respiration rapide"
+   ]
+  },
+  {
+   "id": "vocabulaire-par-speciali-02",
+   "cat": "cours",
+   "module": "Vocabulaire par spécialité",
+   "question": "Qu'est-ce qu'un infarctus ?",
+   "reponse": "L'obstruction brutale d'une artère du cœur",
+   "faux": [
+    "Une élévation de la pression artérielle",
+    "Un rythme cardiaque trop lent",
+    "Une inflammation du péricarde"
+   ]
+  },
+  {
+   "id": "vocabulaire-par-speciali-03",
+   "cat": "cours",
+   "module": "Vocabulaire par spécialité",
+   "question": "Qu'est-ce que la courbe staturo-pondérale ?",
+   "reponse": "L'évolution de la taille et du poids",
+   "faux": [
+    "L'évolution de la température",
+    "Le calendrier des vaccinations",
+    "L'évolution du périmètre crânien"
+   ]
+  },
+  {
+   "id": "vocabulaire-par-speciali-04",
+   "cat": "cours",
+   "module": "Vocabulaire par spécialité",
+   "question": "Quelles sont les 3 étapes pour analyser une demande de RDV ?",
+   "reponse": "Identifier la spécialité, reformuler le motif en langage clair, préciser le mot médical principal",
+   "faux": [
+    "Vérifier l'identité, évaluer l'urgence, proposer un créneau",
+    "Écouter, noter, transmettre au médecin",
+    "Identifier le motif, chercher le diagnostic, orienter vers un spécialiste"
+   ]
+  },
+  {
+   "id": "vocabulaire-par-speciali-05",
+   "cat": "cours",
+   "module": "Vocabulaire par spécialité",
+   "question": "Quelle différence entre stomatologue et dentiste ?",
+   "reponse": "Le stomatologue est médecin, spécialisé en chirurgie de la face, de la bouche et des dents",
+   "faux": [
+    "Le dentiste est médecin, le stomatologue a suivi un cursus dentaire",
+    "Le stomatologue soigne uniquement les enfants, le dentiste les adultes",
+    "Aucune différence : ce sont deux noms pour le même métier de la bouche"
+   ]
+  },
+  {
+   "id": "vocabulaire-par-speciali-06",
+   "cat": "cours",
+   "module": "Vocabulaire par spécialité",
+   "question": "La systole, c'est…",
+   "reponse": "La phase de contraction du cœur",
+   "faux": [
+    "La phase de relâchement du cœur",
+    "Un bruit cardiaque anormal",
+    "Un caillot dans un vaisseau"
+   ],
+   "explication": "La diastole est la phase de relâchement."
+  },
+  {
+   "id": "vocabulaire-par-speciali-07",
+   "cat": "cours",
+   "module": "Vocabulaire par spécialité",
+   "question": "Qu'est-ce qu'une thrombose ?",
+   "reponse": "La formation d'un caillot de sang dans un vaisseau",
+   "faux": [
+    "Un rétrécissement des bronches",
+    "Un manque de fer dans le sang",
+    "Une accumulation de liquide autour du cœur"
+   ]
+  },
+  {
+   "id": "vocabulaire-par-speciali-08",
+   "cat": "cours",
+   "module": "Vocabulaire par spécialité",
+   "question": "Qu'est-ce que le tirage intercostal ?",
+   "reponse": "Un signe de détresse respiratoire",
+   "faux": [
+    "Une douleur entre deux côtes",
+    "Une technique de ponction",
+    "Une fracture de côte"
+   ],
+   "explication": "C'est un effort anormal pour respirer."
+  },
+  {
+   "id": "vocabulaire-par-speciali-09",
+   "cat": "cours",
+   "module": "Vocabulaire par spécialité",
+   "question": "Qu'est-ce qu'une maladie auto-immune ?",
+   "reponse": "Le système immunitaire attaque par erreur les cellules saines",
+   "faux": [
+    "Une maladie transmise par contact avec une personne infectée",
+    "Une baisse durable des défenses immunitaires de l'organisme",
+    "Une maladie génétique qui touche les cellules du sang"
+   ]
+  },
+  {
+   "id": "vocabulaire-par-speciali-10",
+   "cat": "cours",
+   "module": "Vocabulaire par spécialité",
+   "question": "Les hématies sont…",
+   "reponse": "Les globules rouges",
+   "faux": [
+    "Les globules blancs",
+    "Les plaquettes",
+    "Les cellules du foie"
+   ],
+   "explication": "Les leucocytes sont les globules blancs."
+  },
+  {
+   "id": "vocabulaire-par-speciali-11",
+   "cat": "cours",
+   "module": "Vocabulaire par spécialité",
+   "question": "Qu'est-ce que la somatisation ?",
+   "reponse": "Un stress psychique qui se traduit par des symptômes physiques réels",
+   "faux": [
+    "Des symptômes imaginés par le patient, sans réalité physique",
+    "Une maladie du système nerveux qui provoque des douleurs",
+    "Une crise de panique soudaine accompagnée de palpitations"
+   ]
+  },
+  {
+   "id": "vocabulaire-par-speciali-12",
+   "cat": "cours",
+   "module": "Vocabulaire par spécialité",
+   "question": "Une adénopathie cervicale, c'est…",
+   "reponse": "Un gonflement des ganglions du cou",
+   "faux": [
+    "Une douleur des vertèbres cervicales",
+    "Une inflammation de la thyroïde",
+    "Une infection de la gorge"
+   ],
+   "explication": "Souvent liée à une infection bénigne. À surveiller si ça persiste."
+  },
+  {
+   "id": "securite-sociale-01",
+   "cat": "cours",
+   "module": "Sécurité sociale",
+   "question": "Quel est le principe de base de la Sécurité sociale ?",
+   "reponse": "Chacun cotise selon ses moyens et reçoit selon ses besoins",
+   "faux": [
+    "Chacun reçoit en proportion de ce qu'il a cotisé",
+    "Seules les personnes à faibles revenus sont couvertes",
+    "Chacun épargne pour sa propre couverture"
+   ],
+   "explication": "C'est le principe de solidarité."
+  },
+  {
+   "id": "securite-sociale-02",
+   "cat": "cours",
+   "module": "Sécurité sociale",
+   "question": "Quels sont les 3 régimes ?",
+   "reponse": "Général, agricole, spéciaux",
+   "faux": [
+    "Général, complémentaire, spécial",
+    "Public, privé, libéral",
+    "Salarié, indépendant, retraité"
+   ],
+   "explication": "Régimes spéciaux : SNCF, RATP, fonctionnaires."
+  },
+  {
+   "id": "securite-sociale-03",
+   "cat": "cours",
+   "module": "Sécurité sociale",
+   "question": "Laquelle n'est PAS une des 6 branches de la Sécurité sociale ?",
+   "reponse": "Chômage",
+   "faux": [
+    "Autonomie",
+    "Recouvrement",
+    "Accidents du travail / maladies professionnelles"
+   ],
+   "explication": "Les 6 : maladie, AT/MP, famille, retraite, recouvrement (URSSAF), autonomie (CNSA)."
+  },
+  {
+   "id": "securite-sociale-04",
+   "cat": "cours",
+   "module": "Sécurité sociale",
+   "question": "Quel organisme gère la branche recouvrement ?",
+   "reponse": "L'URSSAF",
+   "faux": [
+    "La CPAM",
+    "La CARSAT",
+    "La CNSA"
+   ],
+   "explication": "Elle collecte les cotisations et les redistribue aux caisses."
+  },
+  {
+   "id": "securite-sociale-05",
+   "cat": "cours",
+   "module": "Sécurité sociale",
+   "question": "Quel organisme gère la branche autonomie ?",
+   "reponse": "La CNSA",
+   "faux": [
+    "La CAF",
+    "La MDPH",
+    "L'URSSAF"
+   ]
+  },
+  {
+   "id": "securite-sociale-06",
+   "cat": "cours",
+   "module": "Sécurité sociale",
+   "question": "Que signifie « retraite par répartition » ?",
+   "reponse": "Les cotisations des actifs financent les pensions versées la même année",
+   "faux": [
+    "Chacun épargne pour sa propre retraite",
+    "L'État finance les retraites par l'impôt",
+    "Les pensions sont réparties à parts égales entre retraités"
+   ],
+   "explication": "Contrairement à un système par capitalisation."
+  },
+  {
+   "id": "securite-sociale-07",
+   "cat": "cours",
+   "module": "Sécurité sociale",
+   "question": "Quel est le taux de remboursement d'un généraliste secteur 1 dans le parcours de soins ?",
+   "reponse": "70 % de la base, moins 2 € de participation forfaitaire",
+   "faux": [
+    "100 % de la base, sans participation forfaitaire",
+    "60 % de la base, moins 2 € de participation",
+    "30 % de la base, sans participation forfaitaire"
+   ]
+  },
+  {
+   "id": "securite-sociale-08",
+   "cat": "cours",
+   "module": "Sécurité sociale",
+   "question": "Quel taux s'applique hors parcours de soins ?",
+   "reponse": "30 %",
+   "faux": [
+    "50 %",
+    "60 %",
+    "70 %"
+   ]
+  },
+  {
+   "id": "securite-sociale-09",
+   "cat": "cours",
+   "module": "Sécurité sociale",
+   "question": "Quel est le taux de remboursement de l'optique et des prothèses ?",
+   "reponse": "60 % sur une base fixe",
+   "faux": [
+    "70 % de la base",
+    "30 %",
+    "100 % dans tous les cas"
+   ],
+   "explication": "Avec le 100 % Santé pour certains équipements."
+  },
+  {
+   "id": "securite-sociale-10",
+   "cat": "cours",
+   "module": "Sécurité sociale",
+   "question": "Quelle est la différence entre secteur 1 et secteur 2 ?",
+   "reponse": "Le secteur 2 a droit aux dépassements d'honoraires, pas le secteur 1",
+   "faux": [
+    "Le secteur 1 concerne les spécialistes, le secteur 2 les généralistes",
+    "Le secteur 1 est hospitalier, le secteur 2 libéral",
+    "Le secteur 2 n'est pas remboursé par la Sécu"
+   ]
+  },
+  {
+   "id": "securite-sociale-11",
+   "cat": "cours",
+   "module": "Sécurité sociale",
+   "question": "Combien de chiffres compte le NIR ?",
+   "reponse": "15",
+   "faux": [
+    "13",
+    "11",
+    "17"
+   ],
+   "explication": "On le trouve sur la carte Vitale, l'attestation de droits et les bulletins de paie."
+  },
+  {
+   "id": "securite-sociale-12",
+   "cat": "cours",
+   "module": "Sécurité sociale",
+   "question": "Une personne non née en France reçoit d'abord…",
+   "reponse": "Un numéro d'attente (NIA), puis son NIR après validation de l'INSEE",
+   "faux": [
+    "Directement son NIR définitif, dès son arrivée en France",
+    "Un NIR provisoire valable un an, à renouveler chaque année",
+    "Le numéro de sécurité sociale rattaché à son employeur"
+   ]
+  },
+  {
+   "id": "mutuelle-01",
+   "cat": "cours",
+   "module": "Mutuelle",
+   "question": "Qu'est-ce que le ticket modérateur ?",
+   "reponse": "La part qui reste à la charge du patient après le remboursement de l'Assurance maladie",
+   "faux": [
+    "La participation forfaitaire de 2 € retenue sur chaque consultation",
+    "Le dépassement d'honoraires pratiqué par les médecins du secteur 2",
+    "La cotisation mensuelle que le patient verse à sa complémentaire santé"
+   ]
+  },
+  {
+   "id": "mutuelle-02",
+   "cat": "cours",
+   "module": "Mutuelle",
+   "question": "Une garantie à 150 % du tarif conventionnel, Assurance maladie incluse, ça veut dire…",
+   "reponse": "Le remboursement total peut atteindre 1,5 fois le tarif conventionnel",
+   "faux": [
+    "La mutuelle rembourse 150 % du prix payé",
+    "La mutuelle rembourse 150 € par acte",
+    "Le patient est remboursé 1,5 fois ce qu'il a cotisé"
+   ]
+  },
+  {
+   "id": "mutuelle-03",
+   "cat": "cours",
+   "module": "Mutuelle",
+   "question": "Que permettent les contrats responsables ?",
+   "reponse": "Le tiers payant sur le panier 100 % Santé (optique, dentaire, audiologie)",
+   "faux": [
+    "Le remboursement intégral des dépassements d'honoraires",
+    "L'exonération de la participation forfaitaire",
+    "Une mutuelle gratuite pour les faibles revenus"
+   ]
+  },
+  {
+   "id": "mutuelle-04",
+   "cat": "cours",
+   "module": "Mutuelle",
+   "question": "À qui s'adresse la CSS ?",
+   "reponse": "Aux personnes aux ressources modestes, sous conditions",
+   "faux": [
+    "À tous les salariés, via leur employeur",
+    "Aux personnes reconnues en ALD",
+    "Aux étudiants de moins de 25 ans"
+   ],
+   "explication": "Complémentaire santé solidaire."
+  },
+  {
+   "id": "mutuelle-05",
+   "cat": "cours",
+   "module": "Mutuelle",
+   "question": "Une demande de CSS couvre les enfants jusqu'à quel âge ?",
+   "reponse": "Moins de 25 ans, à charge",
+   "faux": [
+    "Moins de 18 ans, à charge",
+    "Moins de 20 ans, à charge",
+    "Moins de 16 ans, à charge"
+   ],
+   "explication": "La demande couvre tout le foyer : demandeur, conjoint ou partenaire de PACS, enfants."
+  },
+  {
+   "id": "mutuelle-06",
+   "cat": "cours",
+   "module": "Mutuelle",
+   "question": "Un salarié se voit proposer la mutuelle collective de son employeur. L'adhésion est…",
+   "reponse": "Obligatoire, sauf exceptions",
+   "faux": [
+    "Facultative",
+    "Obligatoire seulement après 1 an d'ancienneté",
+    "Réservée aux cadres"
+   ]
+  },
+  {
+   "id": "mutuelle-07",
+   "cat": "cours",
+   "module": "Mutuelle",
+   "question": "Lequel n'influence PAS le tarif d'une mutuelle ?",
+   "reponse": "Le nombre de consultations de l'année précédente",
+   "faux": [
+    "L'âge de l'adhérent au moment de la souscription",
+    "Le lieu d'habitation de l'adhérent",
+    "Le niveau de couverture choisi dans le contrat"
+   ],
+   "explication": "Aussi : le statut (salarié ou non)."
+  },
+  {
+   "id": "mutuelle-08",
+   "cat": "cours",
+   "module": "Mutuelle",
+   "question": "Qu'est-ce que l'OPTAM ?",
+   "reponse": "Un accord qui encadre les dépassements d'honoraires des médecins de secteur 2",
+   "faux": [
+    "Un système d'échange automatique d'informations entre la Sécu et la mutuelle",
+    "Une aide de l'État pour payer une complémentaire santé aux faibles revenus",
+    "La liste officielle des médicaments remboursés par l'Assurance maladie"
+   ]
+  },
+  {
+   "id": "mutuelle-09",
+   "cat": "cours",
+   "module": "Mutuelle",
+   "question": "Lequel ne fait PAS partie des réflexes métier du SAMA concernant la mutuelle ?",
+   "reponse": "Indiquer au patient le montant qu'il sera remboursé",
+   "faux": [
+    "Vérifier l'actualité des droits",
+    "Contrôler l'attestation et la couverture",
+    "Orienter sans interpréter à la place de l'organisme"
+   ],
+   "explication": "Ne jamais promettre un remboursement sans preuve."
+  },
+  {
+   "id": "mutuelle-10",
+   "cat": "cours",
+   "module": "Mutuelle",
+   "question": "Comment est financée la mutuelle ?",
+   "reponse": "Par des cotisations privées, parfois partagées avec l'employeur",
+   "faux": [
+    "Par les impôts",
+    "Par les cotisations versées à la Sécurité sociale",
+    "Par l'Assurance maladie"
+   ],
+   "explication": "La Sécu, elle, est financée par les cotisations sociales et les impôts."
+  },
+  {
+   "id": "encaissement-et-facturat-01",
+   "cat": "cours",
+   "module": "Encaissement et facturation",
+   "question": "Que signifie AMO ?",
+   "reponse": "Assurance maladie obligatoire",
+   "faux": [
+    "Aide médicale officielle",
+    "Assurance maladie optionnelle",
+    "Accord médical obligatoire"
+   ],
+   "explication": "C'est le régime de base de la Sécu. L'AMC est la complémentaire."
+  },
+  {
+   "id": "encaissement-et-facturat-02",
+   "cat": "cours",
+   "module": "Encaissement et facturation",
+   "question": "Dans quel ordre vérifier avant de facturer ?",
+   "reponse": "Identité → droits et couverture → acte → mode de paiement",
+   "faux": [
+    "Acte → identité → mode de paiement → droits",
+    "Mode de paiement → acte → droits → identité",
+    "Droits → mode de paiement → identité → acte"
+   ]
+  },
+  {
+   "id": "encaissement-et-facturat-03",
+   "cat": "cours",
+   "module": "Encaissement et facturation",
+   "question": "Quelle est la 3e étape de la chaîne administrative ?",
+   "reponse": "Le contrôle des droits",
+   "faux": [
+    "La vérification de l'acte",
+    "L'encaissement",
+    "Le contrôle de l'identité"
+   ],
+   "explication": "Accueil, contrôle de l'identité, contrôle des droits, vérification de l'acte, facturation, encaissement, traçabilité, transmission."
+  },
+  {
+   "id": "encaissement-et-facturat-04",
+   "cat": "cours",
+   "module": "Encaissement et facturation",
+   "question": "À partir de quel âge faut-il déclarer un médecin traitant ?",
+   "reponse": "16 ans",
+   "faux": [
+    "18 ans",
+    "12 ans",
+    "25 ans"
+   ]
+  },
+  {
+   "id": "encaissement-et-facturat-05",
+   "cat": "cours",
+   "module": "Encaissement et facturation",
+   "question": "Quelle retenue s'applique hors parcours de soins ?",
+   "reponse": "10,60 €",
+   "faux": [
+    "2,00 €",
+    "5,30 €",
+    "16,50 €"
+   ],
+   "explication": "La mutuelle ne couvre pas cette pénalité."
+  },
+  {
+   "id": "encaissement-et-facturat-06",
+   "cat": "cours",
+   "module": "Encaissement et facturation",
+   "question": "Lequel de ces spécialistes n'est PAS en accès direct ?",
+   "reponse": "Le cardiologue",
+   "faux": [
+    "L'ophtalmologue",
+    "Le gynécologue",
+    "Le stomatologue"
+   ],
+   "explication": "Accès direct : stomato, ophtalmo, psy, neuropsy, gynéco."
+  },
+  {
+   "id": "encaissement-et-facturat-07",
+   "cat": "cours",
+   "module": "Encaissement et facturation",
+   "question": "Qui est exonéré de la participation forfaitaire ?",
+   "reponse": "Les moins de 18 ans",
+   "faux": [
+    "Les plus de 65 ans",
+    "Les salariés à temps partiel",
+    "Les patients en secteur 2"
+   ],
+   "explication": "Aussi : femmes enceintes à partir du 6e mois jusqu'à J+12, bénéficiaires de la CSS ou de l'AME."
+  },
+  {
+   "id": "encaissement-et-facturat-08",
+   "cat": "cours",
+   "module": "Encaissement et facturation",
+   "question": "Un médecin peut-il passer du secteur 1 au secteur 2 ?",
+   "reponse": "Non, seul le passage du secteur 2 au 1 est possible",
+   "faux": [
+    "Oui, à tout moment, sur simple demande",
+    "Oui, une fois tous les 5 ans",
+    "Oui, mais seulement avec l'accord de l'ARS"
+   ],
+   "explication": "Le secteur est choisi à l'installation."
+  },
+  {
+   "id": "encaissement-et-facturat-09",
+   "cat": "cours",
+   "module": "Encaissement et facturation",
+   "question": "Qui informe le SAMA du tarif à appliquer ?",
+   "reponse": "Le professionnel de santé",
+   "faux": [
+    "La CPAM",
+    "La mutuelle du patient",
+    "Le patient"
+   ]
+  },
+  {
+   "id": "encaissement-et-facturat-10",
+   "cat": "cours",
+   "module": "Encaissement et facturation",
+   "question": "Quel est le risque principal du tiers payant pour la structure ?",
+   "reponse": "L'encaissement dépend des remboursements, il faut suivre les rejets",
+   "faux": [
+    "Le patient paie plus cher",
+    "La structure n'est jamais payée pour les actes en ALD",
+    "Il interdit les paiements par carte"
+   ]
+  },
+  {
+   "id": "encaissement-et-facturat-11",
+   "cat": "cours",
+   "module": "Encaissement et facturation",
+   "question": "Le secteur 3, c'est…",
+   "reponse": "Des honoraires libres, remboursés sur la base Sécu",
+   "faux": [
+    "Des honoraires fixés par la convention",
+    "Des dépassements encadrés par l'OPTAM",
+    "Des actes non remboursés du tout"
+   ],
+   "explication": "Exemples : chirurgiens esthétiques, psychothérapeutes."
+  },
+  {
+   "id": "sesam-vitale-et-teletran-01",
+   "cat": "cours",
+   "module": "SESAM-Vitale et télétransmission",
+   "question": "Que signifie FSE ?",
+   "reponse": "Feuille de soins électronique",
+   "faux": [
+    "Fiche de suivi d'examen",
+    "Facture de santé électronique",
+    "Formulaire de sécurité sociale"
+   ]
+  },
+  {
+   "id": "sesam-vitale-et-teletran-02",
+   "cat": "cours",
+   "module": "SESAM-Vitale et télétransmission",
+   "question": "Avec quoi le professionnel signe-t-il la FSE ?",
+   "reponse": "Sa carte de professionnel de santé (CPS)",
+   "faux": [
+    "La carte Vitale du patient",
+    "Son numéro RPPS saisi à la main",
+    "Un tampon et une signature manuscrite"
+   ],
+   "explication": "La CPS est sa signature électronique."
+  },
+  {
+   "id": "sesam-vitale-et-teletran-03",
+   "cat": "cours",
+   "module": "SESAM-Vitale et télétransmission",
+   "question": "En combien de temps la CPAM traite-t-elle une FSE ?",
+   "reponse": "48 h",
+   "faux": [
+    "24 h",
+    "7 jours",
+    "2 ans"
+   ]
+  },
+  {
+   "id": "sesam-vitale-et-teletran-04",
+   "cat": "cours",
+   "module": "SESAM-Vitale et télétransmission",
+   "question": "De combien de temps dispose-t-on pour envoyer une feuille de soins papier ?",
+   "reponse": "2 ans",
+   "faux": [
+    "48 h",
+    "6 mois",
+    "1 an"
+   ],
+   "explication": "Au-delà, la CPAM refuse le remboursement."
+  },
+  {
+   "id": "sesam-vitale-et-teletran-05",
+   "cat": "cours",
+   "module": "SESAM-Vitale et télétransmission",
+   "question": "Quel est le circuit de la facturation électronique ?",
+   "reponse": "Patient → carte Vitale → pro de santé → FSE → Assurance maladie → remboursement",
+   "faux": [
+    "Patient → mutuelle → FSE → pro de santé → remboursement",
+    "Pro de santé → CPAM → carte Vitale → patient → remboursement",
+    "Patient → FSE → carte Vitale → mutuelle → remboursement"
+   ]
+  },
+  {
+   "id": "sesam-vitale-et-teletran-06",
+   "cat": "cours",
+   "module": "SESAM-Vitale et télétransmission",
+   "question": "Que permet le tiers payant ?",
+   "reponse": "De ne pas avancer la part remboursée par l'Assurance maladie",
+   "faux": [
+    "De ne rien payer du tout, participation forfaitaire comprise",
+    "D'être remboursé plus vite par sa mutuelle",
+    "De consulter hors parcours sans pénalité"
+   ],
+   "explication": "La participation forfaitaire et les franchises restent à la charge de l'assuré."
+  },
+  {
+   "id": "sesam-vitale-et-teletran-07",
+   "cat": "cours",
+   "module": "SESAM-Vitale et télétransmission",
+   "question": "Dans quel cas le tiers payant n'est-il PAS un droit ?",
+   "reponse": "Une consultation de routine chez le généraliste",
+   "faux": [
+    "Une ALD",
+    "Un accident du travail",
+    "La contraception des moins de 26 ans"
+   ],
+   "explication": "Depuis 2017, il peut être proposé à tous, mais ce n'est un droit que dans certains cas."
+  },
+  {
+   "id": "sesam-vitale-et-teletran-08",
+   "cat": "cours",
+   "module": "SESAM-Vitale et télétransmission",
+   "question": "Qu'est-ce que l'ALD 31 ?",
+   "reponse": "Une maladie grave « hors liste », longue et coûteuse",
+   "faux": [
+    "Une des 30 maladies de la liste officielle",
+    "Plusieurs affections qui, cumulées, justifient une ALD",
+    "Une ALD réservée aux maladies professionnelles"
+   ],
+   "explication": "Durée prévisible de plus de 6 mois. L'ALD 32 correspond aux polypathologies."
+  },
+  {
+   "id": "sesam-vitale-et-teletran-09",
+   "cat": "cours",
+   "module": "SESAM-Vitale et télétransmission",
+   "question": "Qu'est-ce que l'ALD 32 ?",
+   "reponse": "Plusieurs affections qui, cumulées, justifient une ALD",
+   "faux": [
+    "Une maladie grave hors liste, longue et coûteuse",
+    "Une des 30 maladies de la liste officielle",
+    "Une ALD temporaire de moins de 6 mois"
+   ]
+  },
+  {
+   "id": "sesam-vitale-et-teletran-10",
+   "cat": "cours",
+   "module": "SESAM-Vitale et télétransmission",
+   "question": "Arrêt de travail papier : que fait le patient ?",
+   "reponse": "Il envoie les volets 1 et 2 à la CPAM et le volet 3 à son employeur, sous 48 h",
+   "faux": [
+    "Il envoie les 3 volets à son employeur",
+    "Il garde le volet 1 et envoie les volets 2 et 3 à la CPAM",
+    "Il remet les 3 volets à sa mutuelle"
+   ]
+  },
+  {
+   "id": "sesam-vitale-et-teletran-11",
+   "cat": "cours",
+   "module": "SESAM-Vitale et télétransmission",
+   "question": "Que signifie SESAM ?",
+   "reponse": "Système électronique de saisie de l'Assurance maladie",
+   "faux": [
+    "Service d'échange sécurisé des assurés malades",
+    "Système d'enregistrement des soins médicaux",
+    "Service électronique de santé et d'aide médicale"
+   ]
+  },
+  {
+   "id": "ngap-ccam-t2a-pmsi-01",
+   "cat": "cours",
+   "module": "NGAP, CCAM, T2A, PMSI",
+   "question": "À quoi sert la NGAP ?",
+   "reponse": "À coter certains actes, comme les consultations, avec des lettres-clés et des coefficients",
+   "faux": [
+    "À coder les actes techniques avec un code alphanumérique à 7 caractères",
+    "À financer l'activité des établissements de santé selon les séjours réalisés",
+    "À recueillir les informations médicalisées des séjours hospitaliers"
+   ]
+  },
+  {
+   "id": "ngap-ccam-t2a-pmsi-02",
+   "cat": "cours",
+   "module": "NGAP, CCAM, T2A, PMSI",
+   "question": "Combien de caractères compte un code CCAM ?",
+   "reponse": "7",
+   "faux": [
+    "5",
+    "9",
+    "11"
+   ],
+   "explication": "Exemple : HLHB001."
+  },
+  {
+   "id": "ngap-ccam-t2a-pmsi-03",
+   "cat": "cours",
+   "module": "NGAP, CCAM, T2A, PMSI",
+   "question": "Comment les actes CCAM sont-ils classés ?",
+   "reponse": "De façon topographique, en 5 niveaux",
+   "faux": [
+    "Par ordre alphabétique des libellés",
+    "Par tarif croissant, en 5 niveaux",
+    "Par spécialité médicale, en 3 niveaux"
+   ]
+  },
+  {
+   "id": "ngap-ccam-t2a-pmsi-04",
+   "cat": "cours",
+   "module": "NGAP, CCAM, T2A, PMSI",
+   "question": "Qu'est-ce que la T2A ?",
+   "reponse": "Le mode de financement des établissements selon leur activité",
+   "faux": [
+    "Une nomenclature des actes techniques réalisés à l'hôpital",
+    "Un résumé de sortie anonymisé transmis à l'ARS",
+    "Le tarif des consultations des médecins libéraux"
+   ],
+   "explication": "Ce n'est pas une nomenclature d'actes."
+  },
+  {
+   "id": "ngap-ccam-t2a-pmsi-05",
+   "cat": "cours",
+   "module": "NGAP, CCAM, T2A, PMSI",
+   "question": "Dans la T2A, les GHM sont regroupés en…",
+   "reponse": "GHS (groupes homogènes de séjour)",
+   "faux": [
+    "RUM (résumés d'unité médicale)",
+    "RSA (résumés de sortie anonymes)",
+    "DIM (départements d'information médicale)"
+   ]
+  },
+  {
+   "id": "ngap-ccam-t2a-pmsi-06",
+   "cat": "cours",
+   "module": "NGAP, CCAM, T2A, PMSI",
+   "question": "Depuis quand le PMSI est-il utilisé à des fins tarifaires ?",
+   "reponse": "2005",
+   "faux": [
+    "2002",
+    "2009",
+    "2017"
+   ],
+   "explication": "Lié à la mise en place de la T2A."
+  },
+  {
+   "id": "ngap-ccam-t2a-pmsi-07",
+   "cat": "cours",
+   "module": "NGAP, CCAM, T2A, PMSI",
+   "question": "Qui produit le RUM ?",
+   "reponse": "Le médecin des soins, en fin de séjour",
+   "faux": [
+    "Le médecin du DIM, après la sortie",
+    "Le SAMA, au moment de l'admission",
+    "L'ARS, à la réception des données"
+   ]
+  },
+  {
+   "id": "ngap-ccam-t2a-pmsi-08",
+   "cat": "cours",
+   "module": "NGAP, CCAM, T2A, PMSI",
+   "question": "Dans quel ordre se déroule le processus PMSI ?",
+   "reponse": "RUM → RSS → GHM → RSA → contrôle et transmission à l'ARS",
+   "faux": [
+    "RSA → RSS → RUM → GHM → transmission à la CPAM",
+    "RSS → RUM → RSA → GHM → transmission à l'ARS",
+    "GHM → RUM → RSS → RSA → transmission à la HAS"
+   ]
+  },
+  {
+   "id": "ngap-ccam-t2a-pmsi-09",
+   "cat": "cours",
+   "module": "NGAP, CCAM, T2A, PMSI",
+   "question": "Le responsable du DIM est obligatoirement…",
+   "reponse": "Un médecin",
+   "faux": [
+    "Un TIM",
+    "Un SAMA expérimenté",
+    "Le directeur de l'établissement"
+   ]
+  },
+  {
+   "id": "ngap-ccam-t2a-pmsi-10",
+   "cat": "cours",
+   "module": "NGAP, CCAM, T2A, PMSI",
+   "question": "Que fait le TIM ?",
+   "reponse": "Il code l'activité médicale et contrôle la cohérence des informations",
+   "faux": [
+    "Il pose les diagnostics principaux à la place des médecins",
+    "Il fixe chaque année les tarifs des groupes homogènes de séjour",
+    "Il gère les plannings et les agendas des médecins du service"
+   ],
+   "explication": "Il peut aussi former un SAMA au codage."
+  },
+  {
+   "id": "ngap-ccam-t2a-pmsi-11",
+   "cat": "cours",
+   "module": "NGAP, CCAM, T2A, PMSI",
+   "question": "Quelles informations restent dans les données PMSI anonymisées ?",
+   "reponse": "Le sexe, l'année de naissance et le numéro administratif du séjour",
+   "faux": [
+    "Le nom, le prénom et la date de naissance complète",
+    "Le numéro de sécurité sociale et l'adresse du patient",
+    "Le nom du médecin et le diagnostic complet du séjour"
+   ]
+  },
+  {
+   "id": "retours-noemie-01",
+   "cat": "cours",
+   "module": "Retours NOÉMIE",
+   "question": "Que signifie NOÉMIE ?",
+   "reponse": "Norme ouverte d'échange entre l'Assurance maladie et les intervenants extérieurs",
+   "faux": [
+    "Nouvelle organisation des échanges médicaux informatisés entre les caisses",
+    "Norme officielle d'échange des mutuelles avec les professionnels de santé",
+    "Numéro d'ordre des échanges médicaux entre l'hôpital et la médecine de ville"
+   ]
+  },
+  {
+   "id": "retours-noemie-02",
+   "cat": "cours",
+   "module": "Retours NOÉMIE",
+   "question": "Que transmet un retour NOÉMIE ?",
+   "reponse": "Les paiements, les remboursements en tiers payant et les rejets de feuilles de soins",
+   "faux": [
+    "Uniquement l'avis de paiement des actes facturés par le professionnel",
+    "Les diagnostics et comptes rendus des patients pris en charge",
+    "Les droits à jour des assurés et la liste de leurs exonérations"
+   ],
+   "explication": "Le retour NOÉMIE n'est pas seulement un avis de paiement."
+  },
+  {
+   "id": "retours-noemie-03",
+   "cat": "cours",
+   "module": "Retours NOÉMIE",
+   "question": "Sous quel délai l'Assurance maladie envoie-t-elle un retour NOÉMIE ?",
+   "reponse": "48 h",
+   "faux": [
+    "24 h",
+    "7 jours",
+    "1 mois"
+   ]
+  },
+  {
+   "id": "retours-noemie-04",
+   "cat": "cours",
+   "module": "Retours NOÉMIE",
+   "question": "Quand on lit un retour NOÉMIE, on vérifie…",
+   "reponse": "La référence, le statut, la date, le motif et le montant",
+   "faux": [
+    "Uniquement le montant versé au professionnel",
+    "Le montant et la date de paiement du retour",
+    "Le nom du patient et le montant remboursé"
+   ],
+   "explication": "La vérification des références est centrale."
+  },
+  {
+   "id": "retours-noemie-05",
+   "cat": "cours",
+   "module": "Retours NOÉMIE",
+   "question": "Le retour NOÉMIE signale un rejet. Que fait-on ?",
+   "reponse": "On analyse le rejet avant toute action",
+   "faux": [
+    "On renvoie la même feuille de soins",
+    "On facture directement le patient",
+    "On attend le retour suivant"
+   ]
+  },
+  {
+   "id": "retours-noemie-06",
+   "cat": "cours",
+   "module": "Retours NOÉMIE",
+   "question": "Quelle est la version résumée de la méthode de traitement ?",
+   "reponse": "Identifier → contrôler → analyser → décider → tracer",
+   "faux": [
+    "Recevoir → payer → classer → archiver",
+    "Contrôler → identifier → tracer → décider",
+    "Analyser → décider → identifier → tracer"
+   ]
+  },
+  {
+   "id": "retours-noemie-07",
+   "cat": "cours",
+   "module": "Retours NOÉMIE",
+   "question": "Quelle est la dernière étape du traitement d'un retour ?",
+   "reponse": "Tracer le traitement",
+   "faux": [
+    "Contrôler le montant",
+    "Décider de l'action",
+    "Identifier le dossier"
+   ]
+  },
+  {
+   "id": "retours-noemie-08",
+   "cat": "cours",
+   "module": "Retours NOÉMIE",
+   "question": "Qu'est-ce que la BDO ?",
+   "reponse": "Le fichier central des assurés, avec droits, régimes et exonérations en temps réel",
+   "faux": [
+    "Le fichier qui regroupe les rejets de feuilles de soins de l'année",
+    "La base des tarifs et des codes CCAM utilisée pour la facturation",
+    "Le registre national des professionnels de santé conventionnés"
+   ],
+   "explication": "BDO : base de données opérante."
+  }
+ ]
+}

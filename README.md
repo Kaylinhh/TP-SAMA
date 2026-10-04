@@ -1,6 +1,6 @@
-# Révision termes médicaux
+# Révisions SAMA
 
-Petite appli web pour réviser la terminologie médicale du Titre Pro SAMA : préfixes, racines, suffixes et vocabulaire.
+Petite appli web pour réviser le Titre Pro SAMA : terminologie médicale (préfixes, racines, suffixes, vocabulaire) et questions de cours (14 modules, 174 QCM).
 
 - **QCM** : 4 propositions, les mauvaises réponses sont tirées de la même catégorie et jamais d'un terme de sens équivalent (Macro- et Méga- ne sont pas opposés l'un à l'autre).
 - **Flashcards** : on réfléchit, on retourne la carte, on dit soi-même « su » ou « pas su ».
@@ -38,6 +38,7 @@ js/app.js        écrans (accueil, QCM, flashcards, résultats)
 js/deck.js       construction des sessions et des propositions de QCM
 js/progress.js   progression et réglages (localStorage)
 data/termes.json les termes
+data/cours.json  les questions de cours
 ```
 
 ## Ajouter ou corriger des termes
@@ -59,4 +60,20 @@ Tout est dans `data/termes.json` :
 - `id` doit être unique : c'est la clé de la progression, ne pas le changer après coup.
 - `syn` (optionnel) : les entrées qui partagent la même valeur ne sont jamais proposées l'une contre l'autre en QCM.
 
-Une nouvelle catégorie (par exemple des questions de cours) = une entrée dans `categories` + des entrées avec ce `cat`.
+## Ajouter ou corriger des questions de cours
+
+Tout est dans `data/cours.json`. Les mauvaises réponses sont écrites à la main :
+
+```json
+{
+  "id": "accueil-econduire",
+  "cat": "cours",
+  "module": "Accueil physique",
+  "question": "Que signifie « éconduire » un patient ?",
+  "reponse": "Expliquer pourquoi on ne peut pas répondre à sa demande et proposer une solution",
+  "faux": ["…", "…", "…"],
+  "explication": "Affichée après la réponse (optionnelle)."
+}
+```
+
+Un nouveau module apparaît automatiquement dans la liste des modules dès qu'une question porte son nom. Astuce : garder les mauvaises réponses à peu près de la même longueur que la bonne, sinon elle se repère.

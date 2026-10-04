@@ -3,7 +3,7 @@ import * as deck from "./deck.js";
 
 const app = document.getElementById("app");
 
-const DEFAULTS = { cats: ["prefixe", "racine", "suffixe"], mode: "qcm", dir: "both", length: "20", onlyMistakes: false };
+const DEFAULTS = { cats: ["prefixe", "racine", "suffixe"], modules: null, mode: "qcm", dir: "both", length: "20", onlyMistakes: false };
 let settings = progress.loadSettings(DEFAULTS);
 let data = null;
 let session = null;
@@ -38,7 +38,12 @@ function renderHome() {
     return { ...c, total: cards.length, mastered, count: entries.filter((e) => e.cat === c.id).length };
   });
 
-  const mistakes = deck.allCards(entries, settings.cats, settings.dir).filter((c) => progress.isMistake(c.key)).length;
+  const allModules = [...new Set(entries.filter(deck.isQuestion).map((e) => e.module))];
+  if (!Array.isArray(settings.modules)) settings.modules = allModules;
+  const showModules = settings.cats.includes("cours") && allModules.length > 0;
+  const onlyCours = settings.cats.length > 0 && settings.cats.every((c) => c === "cours");
+
+  const mistakes = deck.allCards(entries, settings.cats, settings.dir, settings.modules).filter((c) => progress.isMistake(c.key)).length;
   if (mistakes === 0 && settings.onlyMistakes) settings.onlyMistakes = false;
 
   const seg = (name, value, label) => `
@@ -49,8 +54,8 @@ function renderHome() {
 
   app.innerHTML = `
     <header class="home-head">
-      <p class="eyebrow">SAMA · Terminologie médicale</p>
-      <h1>Réviser les termes médicaux</h1>
+      <p class="eyebrow">Termes médicaux et cours</p>
+      <h1>Révisions SAMA</h1>
     </header>
 
     <form id="setup" class="setup">
@@ -64,7 +69,7 @@ function renderHome() {
               <input type="checkbox" name="cats" value="${c.id}" ${settings.cats.includes(c.id) ? "checked" : ""}>
               <span class="chip-body">
                 <span class="chip-title">${esc(c.label)}</span>
-                <span class="chip-meta">${c.count} termes</span>
+                <span class="chip-meta">${c.count} ${c.id === "cours" ? "questions" : "termes"}</span>
                 <span class="bar" aria-hidden="true"><span style="width:${(c.mastered / c.total) * 100}%"></span></span>
                 <span class="chip-meta">${Math.round((c.mastered / c.total) * 100)} % maîtrisé</span>
               </span>
@@ -74,13 +79,36 @@ function renderHome() {
         </div>
       </fieldset>
 
+      ${
+        showModules
+          ? `<fieldset>
+              <legend>Modules du cours</legend>
+              <div class="modules">
+                ${allModules
+                  .map((m, i) => {
+                    const n = entries.filter((e) => e.module === m).length;
+                    return `<label class="module">
+                      <input type="checkbox" name="modules" value="${esc(m)}" id="mod-${i}" ${settings.modules.includes(m) ? "checked" : ""}>
+                      <span>${esc(m)} <small>${n}</small></span>
+                    </label>`;
+                  })
+                  .join("")}
+              </div>
+              <div class="module-actions">
+                <button type="button" class="link" id="mods-all">Tout cocher</button>
+                <button type="button" class="link" id="mods-none">Tout décocher</button>
+              </div>
+            </fieldset>`
+          : ""
+      }
+
       <fieldset>
         <legend>Mode</legend>
         <div class="seg">${seg("mode", "qcm", "QCM")}${seg("mode", "flash", "Flashcards")}</div>
       </fieldset>
 
-      <fieldset>
-        <legend>Sens</legend>
+      <fieldset ${onlyCours ? "hidden" : ""}>
+        <legend>Sens <small class="legend-note">pour les termes</small></legend>
         <div class="seg">${seg("dir", "ts", "Terme → sens")}${seg("dir", "st", "Sens → terme")}${seg("dir", "both", "Les deux")}</div>
       </fieldset>
 
@@ -108,6 +136,7 @@ function renderHome() {
     const fd = new FormData(form);
     settings = {
       cats: fd.getAll("cats"),
+      modules: showModules ? fd.getAll("modules") : settings.modules,
       mode: fd.get("mode"),
       dir: fd.get("dir"),
       length: fd.get("length"),
@@ -119,8 +148,16 @@ function renderHome() {
   form.addEventListener("change", (e) => {
     sync();
     // le compteur d'erreurs dépend des catégories et du sens choisis
-    if (e.target.name === "cats" || e.target.name === "dir") renderHome();
+    if (["cats", "dir", "modules"].includes(e.target.name)) renderHome();
   });
+
+  const setModules = (list) => {
+    settings.modules = list;
+    progress.saveSettings(settings);
+    renderHome();
+  };
+  app.querySelector("#mods-all")?.addEventListener("click", () => setModules(allModules));
+  app.querySelector("#mods-none")?.addEventListener("click", () => setModules([]));
 
   form.addEventListener("submit", (e) => {
     e.preventDefault();
@@ -128,6 +165,10 @@ function renderHome() {
     const err = app.querySelector("#err");
     if (!settings.cats.length) {
       err.textContent = "Choisis au moins une catégorie.";
+      return;
+    }
+    if (settings.cats.includes("cours") && !settings.modules.length) {
+      err.textContent = "Choisis au moins un module du cours.";
       return;
     }
     const cards = deck.buildSession(data.entries, settings);
@@ -203,7 +244,7 @@ function topBar() {
     </div>
     <p class="card-meta">
       <span class="tag tag-${session.card.entry.cat}">${esc(catLabel(session.card.entry.cat))}</span>
-      <span>${session.card.dir === "ts" ? "Que veut dire…" : "Quel terme veut dire…"}</span>
+      <span>${deck.isQuestion(session.card.entry) ? esc(session.card.entry.module) : session.card.dir === "ts" ? "Que veut dire…" : "Quel terme veut dire…"}</span>
       ${retry ? '<span class="tag tag-retry">On y revient</span>' : ""}
     </p>`;
 }
@@ -216,9 +257,10 @@ function bindQuit() {
 
 function details(entry, dir) {
   const syn = deck.synonyms(entry, data.entries);
-  const ex = entry.exemples.filter((x) => x.mot);
+  const ex = (entry.exemples || []).filter((x) => x.mot);
   return `
     <div class="details">
+      ${entry.explication ? `<p class="explication">${esc(entry.explication)}</p>` : ""}
       ${
         syn.length
           ? `<p class="syn">Sens proche : ${syn.map((s) => `<strong>${esc(s.terme)}</strong>`).join(", ")}</p>`
@@ -236,7 +278,7 @@ function details(entry, dir) {
 
 function promptClass(card) {
   // les définitions longues (vocabulaire, sens → terme) s'affichent plus petit
-  return deck.prompt(card).length > 60 ? "prompt prompt-long" : "prompt";
+  return deck.isQuestion(card.entry) || deck.prompt(card).length > 60 ? "prompt prompt-long" : "prompt";
 }
 
 /* QCM */
@@ -403,9 +445,20 @@ function renderResults() {
 
 async function init() {
   try {
-    const res = await fetch("data/termes.json");
-    if (!res.ok) throw new Error(res.status);
-    data = await res.json();
+    const files = ["data/termes.json", "data/cours.json"];
+    const parts = await Promise.all(
+      files.map(async (f) => {
+        const res = await fetch(f);
+        if (!res.ok) throw new Error(`${f} : ${res.status}`);
+        return res.json();
+      })
+    );
+    data = { categories: [], entries: [] };
+    for (const part of parts) {
+      data.categories.push(...part.categories);
+      // les questions de cours réutilisent l'affichage terme/sens
+      data.entries.push(...part.entries.map((e) => (deck.isQuestion(e) ? { ...e, terme: e.question, sens: e.reponse } : e)));
+    }
     settings.cats = settings.cats.filter((c) => data.categories.some((x) => x.id === c));
     renderHome();
   } catch (err) {

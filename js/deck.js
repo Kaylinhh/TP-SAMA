@@ -9,6 +9,9 @@ export const DIRECTIONS = {
 const norm = (s) =>
   s.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase().replace(/[^a-z]+/g, " ").trim();
 
+// Questions de cours : la bonne réponse et les mauvaises sont écrites à la main
+export const isQuestion = (e) => Array.isArray(e.faux);
+
 export function cardKey(entry, dir) {
   return `${entry.id}:${dir}`;
 }
@@ -29,15 +32,17 @@ export function answer(card) {
 // sans créer deux bonnes réponses (ex. Macro- et Méga- veulent tous les deux dire "Grand").
 export function equivalent(a, b) {
   if (a.id === b.id) return true;
+  if (isQuestion(a) || isQuestion(b)) return false;
   if (a.syn && a.syn === b.syn) return true;
   return norm(a.sens) === norm(b.sens);
 }
 
-export function allCards(entries, cats, dirMode) {
+export function allCards(entries, cats, dirMode, modules = null) {
   const dirs = dirMode === "both" ? ["ts", "st"] : [dirMode];
   return entries
     .filter((e) => cats.includes(e.cat))
-    .flatMap((e) => dirs.map((d) => makeCard(e, d)));
+    .filter((e) => !isQuestion(e) || !modules || modules.includes(e.module))
+    .flatMap((e) => (isQuestion(e) ? [makeCard(e, "ts")] : dirs.map((d) => makeCard(e, d))));
 }
 
 function shuffle(arr) {
@@ -56,8 +61,8 @@ function weightedSample(cards, n) {
   return pool.slice(0, n).map((x) => x.c);
 }
 
-export function buildSession(entries, { cats, dir, length, onlyMistakes }) {
-  let cards = allCards(entries, cats, dir);
+export function buildSession(entries, { cats, dir, length, onlyMistakes, modules }) {
+  let cards = allCards(entries, cats, dir, modules);
   if (onlyMistakes) cards = cards.filter((c) => progress.isMistake(c.key));
   const n = length === "all" ? cards.length : Math.min(Number(length), cards.length);
   // Une même entrée ne sort pas dans les deux sens au cours d'une même session courte
@@ -74,8 +79,14 @@ export function buildSession(entries, { cats, dir, length, onlyMistakes }) {
 
 export function choices(card, entries, count = 4) {
   const target = card.entry;
+  if (isQuestion(target)) {
+    return shuffle([
+      { text: target.reponse, correct: true },
+      ...target.faux.slice(0, count - 1).map((text) => ({ text, correct: false })),
+    ]);
+  }
   const isVocab = target.cat === "vocabulaire";
-  const ok = (e) => !equivalent(e, target) && (isVocab ? e.cat === "vocabulaire" : e.cat !== "vocabulaire");
+  const ok = (e) => !isQuestion(e) && !equivalent(e, target) && (isVocab ? e.cat === "vocabulaire" : e.cat !== "vocabulaire");
   const sameCat = shuffle(entries.filter((e) => e.cat === target.cat && ok(e)));
   const others = shuffle(entries.filter((e) => e.cat !== target.cat && ok(e)));
 
@@ -107,6 +118,7 @@ export function synonyms(entry, entries) {
     (e) =>
       e.id !== entry.id &&
       e.cat !== "vocabulaire" &&
+      !isQuestion(e) &&
       equivalent(e, entry) &&
       (norm(e.sens) === norm(entry.sens) || close(e, entry) || close(entry, e))
   );
