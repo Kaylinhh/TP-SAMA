@@ -2194,6 +2194,901 @@
     "Le registre national des professionnels de santé conventionnés"
    ],
    "explication": "BDO : base de données opérante."
+  },
+  {
+   "id": "loi-kouchner-et-protecti-01",
+   "cat": "cours",
+   "module": "Loi Kouchner et protection",
+   "question": "Quelle est la date de la loi Kouchner ?",
+   "reponse": "4 mars 2002",
+   "faux": [
+    "11 février 2005",
+    "22 avril 2005",
+    "26 janvier 2016"
+   ],
+   "explication": "Loi relative aux droits des malades et à la qualité du système de santé."
+  },
+  {
+   "id": "loi-kouchner-et-protecti-02",
+   "cat": "cours",
+   "module": "Loi Kouchner et protection",
+   "question": "Quel est le but de la loi Kouchner ?",
+   "reponse": "Placer l'usager au centre du système de soins",
+   "faux": [
+    "Réduire les dépenses de l'Assurance maladie",
+    "Créer les agences régionales de santé",
+    "Encadrer les dépassements d'honoraires"
+   ],
+   "explication": "Elle rééquilibre la relation patient/médecin."
+  },
+  {
+   "id": "loi-kouchner-et-protecti-03",
+   "cat": "cours",
+   "module": "Loi Kouchner et protection",
+   "question": "Pour un patient mineur, qui prend la décision de soins ?",
+   "reponse": "Le détenteur de l'autorité parentale",
+   "faux": [
+    "Le mineur seul, dès 15 ans",
+    "Le médecin traitant",
+    "La personne de confiance"
+   ],
+   "explication": "La loi reconnaît toutefois au mineur la capacité de consentir seul à certains actes, comme la contraception."
+  },
+  {
+   "id": "loi-kouchner-et-protecti-04",
+   "cat": "cours",
+   "module": "Loi Kouchner et protection",
+   "question": "Qui peut désigner une personne de confiance ?",
+   "reponse": "Tout patient majeur",
+   "faux": [
+    "Tout patient, mineur ou majeur",
+    "Seulement un patient hospitalisé",
+    "Seulement un patient en ALD"
+   ],
+   "explication": "Un majeur sous tutelle ne le peut qu'avec l'autorisation du juge ou du conseil de famille. Un majeur sous curatelle le peut."
+  },
+  {
+   "id": "loi-kouchner-et-protecti-05",
+   "cat": "cours",
+   "module": "Loi Kouchner et protection",
+   "question": "Personne de confiance et personne à prévenir, c'est…",
+   "reponse": "Deux rôles différents",
+   "faux": [
+    "La même chose, sous deux noms",
+    "La même personne, obligatoirement",
+    "Deux rôles réservés à la famille proche"
+   ],
+   "explication": "La personne de confiance est consultée sur les soins si le patient ne peut plus s'exprimer. Elle est le porte-parole du patient et ne remplace pas son choix."
+  },
+  {
+   "id": "loi-kouchner-et-protecti-06",
+   "cat": "cours",
+   "module": "Loi Kouchner et protection",
+   "question": "Comment désigne-t-on une personne de confiance ?",
+   "reponse": "Par un écrit daté et signé",
+   "faux": [
+    "Oralement, auprès du médecin traitant",
+    "Par acte notarié uniquement",
+    "Sur décision du juge des tutelles"
+   ],
+   "explication": "Sur papier libre ou formulaire de la structure ou de la HAS, à tout moment."
+  },
+  {
+   "id": "loi-kouchner-et-protecti-07",
+   "cat": "cours",
+   "module": "Loi Kouchner et protection",
+   "question": "Les directives anticipées sont valables…",
+   "reponse": "Sans limite de temps, et modifiables à tout moment",
+   "faux": [
+    "3 ans, puis à renouveler",
+    "1 an, renouvelable une fois",
+    "Jusqu'à la prochaine hospitalisation"
+   ],
+   "explication": "Si plusieurs documents existent, le plus récent fait foi. Elles ne sont pas obligatoires."
+  },
+  {
+   "id": "loi-kouchner-et-protecti-08",
+   "cat": "cours",
+   "module": "Loi Kouchner et protection",
+   "question": "Quel est le rôle du SAMA pour le consentement éclairé ?",
+   "reponse": "Organiser le relais et assurer la traçabilité du document",
+   "faux": [
+    "Expliquer les risques médicaux au patient",
+    "Faire signer le patient avant la consultation",
+    "Décider si le consentement est valable"
+   ],
+   "explication": "Il n'explique pas les risques à la place du praticien et ne fait pas pression pour signer."
+  },
+  {
+   "id": "loi-kouchner-et-protecti-09",
+   "cat": "cours",
+   "module": "Loi Kouchner et protection",
+   "question": "Quel arrêt de 1942 consacre le respect du consentement préalable du malade ?",
+   "reponse": "L'arrêt Teyssier",
+   "faux": [
+    "L'arrêt Mercier",
+    "La loi Boulin",
+    "La charte du malade hospitalisé"
+   ],
+   "explication": "L'arrêt Mercier (1936) porte sur la responsabilité du médecin."
+  },
+  {
+   "id": "loi-kouchner-et-protecti-10",
+   "cat": "cours",
+   "module": "Loi Kouchner et protection",
+   "question": "En quelle année la CMU a-t-elle été créée ?",
+   "reponse": "1999",
+   "faux": [
+    "1974",
+    "2002",
+    "2005"
+   ],
+   "explication": "1974 : première charte du malade hospitalisé."
+  },
+  {
+   "id": "loi-kouchner-et-protecti-11",
+   "cat": "cours",
+   "module": "Loi Kouchner et protection",
+   "question": "Combien de points compte la charte de la personne hospitalisée ?",
+   "reponse": "11",
+   "faux": [
+    "8",
+    "12",
+    "15"
+   ]
+  },
+  {
+   "id": "loi-kouchner-et-protecti-12",
+   "cat": "cours",
+   "module": "Loi Kouchner et protection",
+   "question": "Quelle mesure protège temporairement une personne dont les facultés sont passagèrement altérées ?",
+   "reponse": "La sauvegarde de justice",
+   "faux": [
+    "La curatelle renforcée",
+    "L'habilitation familiale",
+    "Le mandat de protection future"
+   ],
+   "explication": "1 an, renouvelable une fois. Exemples : accident, coma, traumatisme crânien."
+  },
+  {
+   "id": "loi-kouchner-et-protecti-13",
+   "cat": "cours",
+   "module": "Loi Kouchner et protection",
+   "question": "Quelle est la durée d'une curatelle avant révision ?",
+   "reponse": "5 à 10 ans",
+   "faux": [
+    "1 an renouvelable",
+    "2 à 3 ans",
+    "À vie, sans révision"
+   ],
+   "explication": "Plus souple que la tutelle : la personne est autonome mais a besoin d'assistance pour certains actes."
+  },
+  {
+   "id": "loi-kouchner-et-protecti-14",
+   "cat": "cours",
+   "module": "Loi Kouchner et protection",
+   "question": "Qui ne peut PAS établir un mandat de protection future pour lui-même ?",
+   "reponse": "Une personne sous tutelle",
+   "faux": [
+    "Une personne sous curatelle",
+    "Un parent pour son enfant mineur",
+    "Un parent pour son enfant majeur"
+   ],
+   "explication": "Le mandat se fait par acte notarié ou sous seing privé."
+  },
+  {
+   "id": "acces-au-dossier-medical-01",
+   "cat": "cours",
+   "module": "Accès au dossier médical",
+   "question": "Qu'est-ce que l'audit trail ?",
+   "reponse": "L'enregistrement chronologique et inaltérable des accès et modifications",
+   "faux": [
+    "La liste des personnes autorisées à consulter le dossier",
+    "Le contrôle annuel des dossiers par l'ARS",
+    "La copie de sauvegarde du dossier informatisé"
+   ],
+   "explication": "En français : piste d'audit."
+  },
+  {
+   "id": "acces-au-dossier-medical-02",
+   "cat": "cours",
+   "module": "Accès au dossier médical",
+   "question": "Quel délai de réflexion minimum s'applique après une demande d'accès ?",
+   "reponse": "48 h",
+   "faux": [
+    "24 h",
+    "8 jours",
+    "15 jours"
+   ]
+  },
+  {
+   "id": "acces-au-dossier-medical-03",
+   "cat": "cours",
+   "module": "Accès au dossier médical",
+   "question": "Délai maximal pour communiquer des informations de moins de 5 ans ?",
+   "reponse": "8 jours",
+   "faux": [
+    "48 h",
+    "15 jours",
+    "2 mois"
+   ],
+   "explication": "Jusqu'à 2 mois si les infos ont plus de 5 ans ou si le dossier est archivé."
+  },
+  {
+   "id": "acces-au-dossier-medical-04",
+   "cat": "cours",
+   "module": "Accès au dossier médical",
+   "question": "La consultation du dossier sur place est…",
+   "reponse": "Gratuite",
+   "faux": [
+    "Facturée au tarif d'une consultation",
+    "Réservée au médecin désigné",
+    "Possible seulement après 2 mois"
+   ],
+   "explication": "Les frais de copie et d'envoi sont à la charge du demandeur (coût strict)."
+  },
+  {
+   "id": "acces-au-dossier-medical-05",
+   "cat": "cours",
+   "module": "Accès au dossier médical",
+   "question": "Avec quel document vérifie-t-on l'identité du demandeur ?",
+   "reponse": "Une carte d'identité ou un passeport",
+   "faux": [
+    "La carte Vitale",
+    "L'attestation de mutuelle",
+    "Un justificatif de domicile"
+   ]
+  },
+  {
+   "id": "acces-au-dossier-medical-06",
+   "cat": "cours",
+   "module": "Accès au dossier médical",
+   "question": "Un proche appelle pour avoir des nouvelles médicales d'un patient. Que fait le SAMA ?",
+   "reponse": "Il redirige vers le praticien qui a pris en charge le patient",
+   "faux": [
+    "Il donne les grandes lignes sans détail médical",
+    "Il répond si le proche connaît la date de naissance",
+    "Il lit le dernier compte rendu au téléphone"
+   ],
+   "explication": "Le SAMA ne répond jamais lui-même à une personne extérieure."
+  },
+  {
+   "id": "acces-au-dossier-medical-07",
+   "cat": "cours",
+   "module": "Accès au dossier médical",
+   "question": "La police demande un dossier médical. À quelle condition peut-elle y accéder ?",
+   "reponse": "Avec une commission rogatoire ou une réquisition, et jamais sans l'accord du médecin",
+   "faux": [
+    "Sur simple présentation de la carte professionnelle d'un policier",
+    "Avec l'accord écrit du SAMA et du directeur de l'établissement",
+    "Sans aucune condition, dès qu'une enquête est en cours"
+   ]
+  },
+  {
+   "id": "acces-au-dossier-medical-08",
+   "cat": "cours",
+   "module": "Accès au dossier médical",
+   "question": "Qu'est-ce qu'on peut transmettre à un employeur ?",
+   "reponse": "Uniquement les infos strictement légales, comme l'arrêt de travail",
+   "faux": [
+    "Le diagnostic, s'il concerne le poste de travail",
+    "Le compte rendu de consultation",
+    "Toutes les infos, si le salarié est d'accord oralement"
+   ]
+  },
+  {
+   "id": "acces-au-dossier-medical-09",
+   "cat": "cours",
+   "module": "Accès au dossier médical",
+   "question": "Un autre établissement demande un dossier par téléphone. Que fait le SAMA ?",
+   "reponse": "Il exige une demande écrite avec l'en-tête du service demandeur",
+   "faux": [
+    "Il envoie l'original du dossier par coursier",
+    "Il transmet les infos par téléphone",
+    "Il refuse toute transmission entre établissements"
+   ],
+   "explication": "L'original du dossier reste toujours dans l'établissement où il a été constitué."
+  },
+  {
+   "id": "acces-au-dossier-medical-10",
+   "cat": "cours",
+   "module": "Accès au dossier médical",
+   "question": "Pour l'hébergement des données de santé, qu'est-ce qui est maintenu ?",
+   "reponse": "Le droit d'opposition du patient",
+   "faux": [
+    "Le consentement express écrit du patient",
+    "L'accord préalable de l'ARS",
+    "La validation par le médecin traitant"
+   ],
+   "explication": "Le consentement express a été supprimé, mais le patient doit être informé de son droit d'opposition."
+  },
+  {
+   "id": "acces-au-dossier-medical-11",
+   "cat": "cours",
+   "module": "Accès au dossier médical",
+   "question": "Un hébergeur de données de santé numériques doit être…",
+   "reponse": "Certifié HDS",
+   "faux": [
+    "Agréé par la CPAM",
+    "Déclaré à l'ARS",
+    "Labellisé HAS"
+   ]
+  },
+  {
+   "id": "acces-au-dossier-medical-12",
+   "cat": "cours",
+   "module": "Accès au dossier médical",
+   "question": "Pour une thèse ou un mémoire, un dossier peut être utilisé…",
+   "reponse": "Anonymisé, ou avec l'accord du patient",
+   "faux": [
+    "Librement, s'il a plus de 5 ans",
+    "Avec l'accord du directeur de l'établissement",
+    "Uniquement après le décès du patient"
+   ]
+  },
+  {
+   "id": "mise-a-jour-du-dossier-p-01",
+   "cat": "cours",
+   "module": "Mise à jour du dossier patient",
+   "question": "Que signifie INS ?",
+   "reponse": "Identifiant national de santé",
+   "faux": [
+    "Indicateur national de soins",
+    "Inscription nationale à la Sécurité sociale",
+    "Identité numérique du soignant"
+   ]
+  },
+  {
+   "id": "mise-a-jour-du-dossier-p-02",
+   "cat": "cours",
+   "module": "Mise à jour du dossier patient",
+   "question": "Combien de traits d'identité stricts compose l'INS ?",
+   "reponse": "5",
+   "faux": [
+    "3",
+    "4",
+    "7"
+   ],
+   "explication": "Nom de naissance, prénoms, date de naissance, sexe, lieu de naissance. Plus un matricule (NIR ou NIA)."
+  },
+  {
+   "id": "mise-a-jour-du-dossier-p-03",
+   "cat": "cours",
+   "module": "Mise à jour du dossier patient",
+   "question": "Lequel n'est PAS un trait d'identité strict de l'INS ?",
+   "reponse": "L'adresse",
+   "faux": [
+    "Le nom de naissance",
+    "Le lieu de naissance",
+    "Le sexe"
+   ]
+  },
+  {
+   "id": "mise-a-jour-du-dossier-p-04",
+   "cat": "cours",
+   "module": "Mise à jour du dossier patient",
+   "question": "Un NIA commence par 7 ou 8. Qu'indique ce chiffre ?",
+   "reponse": "Le sexe : 7 pour les hommes, 8 pour les femmes",
+   "faux": [
+    "L'année d'attribution : 7 pour 2007, 8 pour 2008",
+    "Le régime : 7 pour le général, 8 pour l'agricole",
+    "Le statut : 7 pour un adulte, 8 pour un enfant"
+   ],
+   "explication": "Le NIA est un numéro d'attente, avant l'attribution du NIR."
+  },
+  {
+   "id": "mise-a-jour-du-dossier-p-05",
+   "cat": "cours",
+   "module": "Mise à jour du dossier patient",
+   "question": "Avec quoi valide-t-on l'INS ?",
+   "reponse": "Une pièce d'identité avec photo et la carte Vitale",
+   "faux": [
+    "La carte Vitale seule",
+    "Un justificatif de domicile et la carte de mutuelle",
+    "La déclaration orale du patient"
+   ]
+  },
+  {
+   "id": "mise-a-jour-du-dossier-p-06",
+   "cat": "cours",
+   "module": "Mise à jour du dossier patient",
+   "question": "Quelle question est la bonne pour vérifier l'identité d'un patient ?",
+   "reponse": "« Pouvez-vous me donner vos nom, prénom et date de naissance ? »",
+   "faux": [
+    "« Vous êtes bien Mme Laborde ? »",
+    "« C'est bien vous, Mme Laborde, née en 1980 ? »",
+    "« Je vous ai sous le nom de Laborde, c'est ça ? »"
+   ],
+   "explication": "Question ouverte : on fait décliner l'identité sans induire la réponse."
+  },
+  {
+   "id": "mise-a-jour-du-dossier-p-07",
+   "cat": "cours",
+   "module": "Mise à jour du dossier patient",
+   "question": "Que doit-on faire de toute modification du dossier patient ?",
+   "reponse": "La dater et la signer, ou la laisser tracer par la session",
+   "faux": [
+    "La valider par le médecin avant enregistrement",
+    "La noter sur un registre papier à part",
+    "La supprimer après 1 an"
+   ],
+   "explication": "L'identifiant de session enregistre identité, date et heure."
+  },
+  {
+   "id": "mise-a-jour-du-dossier-p-08",
+   "cat": "cours",
+   "module": "Mise à jour du dossier patient",
+   "question": "À qui est destinée la CPE ?",
+   "reponse": "Aux collaborateurs qui n'ont pas de CPS, comme le SAMA",
+   "faux": [
+    "Aux médecins remplaçants qui n'ont pas encore leur CPS",
+    "Aux patients hospitalisés dans l'établissement",
+    "Aux pharmaciens d'officine pour la délivrance"
+   ],
+   "explication": "Elle sert à l'accueil, à la facturation et à la consultation des droits."
+  },
+  {
+   "id": "mise-a-jour-du-dossier-p-09",
+   "cat": "cours",
+   "module": "Mise à jour du dossier patient",
+   "question": "On s'absente quelques minutes du poste de travail. Que fait-on ?",
+   "reponse": "On verrouille sa session",
+   "faux": [
+    "On laisse la session ouverte si un collègue est présent",
+    "On ferme seulement le dossier ouvert",
+    "On note l'heure de départ sur un registre"
+   ],
+   "explication": "Et on ne partage jamais son code de session."
+  },
+  {
+   "id": "mise-a-jour-du-dossier-p-10",
+   "cat": "cours",
+   "module": "Mise à jour du dossier patient",
+   "question": "La mise à jour administrative du dossier concerne…",
+   "reponse": "Les droits du patient : ALD, CSS, accident du travail, maternité",
+   "faux": [
+    "Les résultats d'analyses de laboratoire et d'imagerie",
+    "Les prescriptions : médicaments, dosages, durée",
+    "Les notes de consultation et observations du médecin"
+   ]
+  },
+  {
+   "id": "mise-a-jour-du-dossier-p-11",
+   "cat": "cours",
+   "module": "Mise à jour du dossier patient",
+   "question": "Comment partage-t-on un compte rendu vers le DMP ?",
+   "reponse": "Via Mon Espace Santé",
+   "faux": [
+    "Par mail au patient",
+    "Via la messagerie de la CPAM",
+    "Par télétransmission FSE"
+   ]
+  },
+  {
+   "id": "charte-marianne-01",
+   "cat": "cours",
+   "module": "Charte Marianne",
+   "question": "Qu'est-ce que la charte Marianne ?",
+   "reponse": "Un engagement de qualité de l'accueil dans les services publics",
+   "faux": [
+    "Le règlement intérieur des hôpitaux publics",
+    "La charte des droits du patient hospitalisé",
+    "Un label de qualité pour les cliniques privées"
+   ]
+  },
+  {
+   "id": "charte-marianne-02",
+   "cat": "cours",
+   "module": "Charte Marianne",
+   "question": "Combien d'engagements compte la charte Marianne ?",
+   "reponse": "12",
+   "faux": [
+    "5",
+    "10",
+    "11"
+   ],
+   "explication": "Regroupés en 5 axes."
+  },
+  {
+   "id": "charte-marianne-03",
+   "cat": "cours",
+   "module": "Charte Marianne",
+   "question": "Délai maximal de réponse à une demande par voie électronique ?",
+   "reponse": "1 semaine",
+   "faux": [
+    "48 h",
+    "2 semaines",
+    "1 mois"
+   ]
+  },
+  {
+   "id": "charte-marianne-04",
+   "cat": "cours",
+   "module": "Charte Marianne",
+   "question": "Délai maximal de réponse à une demande par courrier ?",
+   "reponse": "2 semaines",
+   "faux": [
+    "1 semaine",
+    "1 mois",
+    "2 mois"
+   ]
+  },
+  {
+   "id": "charte-marianne-05",
+   "cat": "cours",
+   "module": "Charte Marianne",
+   "question": "Lequel n'est PAS un des 5 axes de la charte Marianne ?",
+   "reponse": "La gratuité des démarches",
+   "faux": [
+    "Un accueil aimable et attentionné",
+    "Des réponses claires dans les délais annoncés",
+    "À votre écoute pour progresser"
+   ],
+   "explication": "Les 5 axes : infos et orientation efficace, accueil aimable, réponses claires dans les délais, écoute pour progresser, engagement auprès des agents."
+  },
+  {
+   "id": "charte-marianne-06",
+   "cat": "cours",
+   "module": "Charte Marianne",
+   "question": "Selon l'engagement 4, que fait-on en accueillant un usager ?",
+   "reponse": "On l'informe du délai d'attente et on veille à son confort",
+   "faux": [
+    "On lui remet un questionnaire de satisfaction",
+    "On lui propose un RDV en ligne",
+    "On vérifie sa carte Vitale"
+   ]
+  },
+  {
+   "id": "charte-marianne-07",
+   "cat": "cours",
+   "module": "Charte Marianne",
+   "question": "Que prévoit la charte Marianne pour les personnes en situation de handicap ?",
+   "reponse": "Faciliter leur accès aux démarches",
+   "faux": [
+    "Un guichet dédié dans chaque structure",
+    "Un délai de réponse réduit de moitié",
+    "Une priorité absolue dans la file d'attente"
+   ]
+  },
+  {
+   "id": "charte-marianne-08",
+   "cat": "cours",
+   "module": "Charte Marianne",
+   "question": "Que fait-on des remarques et suggestions des usagers ?",
+   "reponse": "On les utilise pour améliorer les services",
+   "faux": [
+    "On les transmet à l'ARS",
+    "On les classe au dossier de l'usager",
+    "On y répond uniquement par courrier"
+   ],
+   "explication": "La satisfaction est aussi évaluée régulièrement et les résultats sont communiqués."
+  },
+  {
+   "id": "classement-et-archivage-01",
+   "cat": "cours",
+   "module": "Classement et archivage",
+   "question": "Pourquoi classe-t-on des documents ?",
+   "reponse": "Pour les retrouver facilement",
+   "faux": [
+    "Pour les conserver le plus longtemps possible",
+    "Pour réduire le nombre de documents",
+    "Pour pouvoir les détruire plus vite"
+   ],
+   "explication": "Les documents conservés servent aussi de preuve."
+  },
+  {
+   "id": "classement-et-archivage-02",
+   "cat": "cours",
+   "module": "Classement et archivage",
+   "question": "Quelle est la dernière étape du cycle de vie d'un document ?",
+   "reponse": "L'élimination sécurisée, une fois le délai de conservation atteint",
+   "faux": [
+    "L'archivage, quand le document n'est plus consulté régulièrement",
+    "Le classement actif pendant la période d'utilisation",
+    "L'enregistrement dans le dossier patient ou le logiciel"
+   ],
+   "explication": "Et toujours selon la procédure et après validation."
+  },
+  {
+   "id": "classement-et-archivage-03",
+   "cat": "cours",
+   "module": "Classement et archivage",
+   "question": "À quoi sert la méthode QQOQCCP ?",
+   "reponse": "À construire son classement",
+   "faux": [
+    "À rédiger un compte rendu médical",
+    "À vérifier l'identité d'un patient",
+    "À traiter un retour NOÉMIE"
+   ],
+   "explication": "Quoi, qui, où, quand, comment, combien, pourquoi."
+  },
+  {
+   "id": "classement-et-archivage-04",
+   "cat": "cours",
+   "module": "Classement et archivage",
+   "question": "Dans un classement alphabétique, on ne classe jamais…",
+   "reponse": "À l'article ou à l'adjectif",
+   "faux": [
+    "Au nom de famille",
+    "Au nom de lieu ou de ville",
+    "Au point cardinal"
+   ],
+   "explication": "On classe au premier nom propre, selon les normes AFNOR."
+  },
+  {
+   "id": "classement-et-archivage-05",
+   "cat": "cours",
+   "module": "Classement et archivage",
+   "question": "Un dossier rangé sous « Site Nord – cardiologie » suit quel classement ?",
+   "reponse": "Géographique",
+   "faux": [
+    "Thématique",
+    "Numérique",
+    "Chronologique"
+   ]
+  },
+  {
+   "id": "classement-et-archivage-06",
+   "cat": "cours",
+   "module": "Classement et archivage",
+   "question": "Archiver, c'est…",
+   "reponse": "Gérer les documents inactifs en respectant les durées légales",
+   "faux": [
+    "Ranger les documents en cours d'utilisation pour les retrouver",
+    "Numériser tous les documents papier de la structure",
+    "Détruire les documents de plus de 5 ans de façon sécurisée"
+   ]
+  },
+  {
+   "id": "classement-et-archivage-07",
+   "cat": "cours",
+   "module": "Classement et archivage",
+   "question": "Dans quel ordre évoluent les archives ?",
+   "reponse": "Courantes → intermédiaires → définitives",
+   "faux": [
+    "Définitives → intermédiaires → courantes",
+    "Actives → passives → détruites",
+    "Intermédiaires → courantes → définitives"
+   ]
+  },
+  {
+   "id": "classement-et-archivage-08",
+   "cat": "cours",
+   "module": "Classement et archivage",
+   "question": "Quelle norme encadre le système d'archivage électronique (SAE) ?",
+   "reponse": "NF Z42-013",
+   "faux": [
+    "ISO 9001",
+    "RGPD",
+    "NF S96-900"
+   ]
+  },
+  {
+   "id": "classement-et-archivage-09",
+   "cat": "cours",
+   "module": "Classement et archivage",
+   "question": "Combien de temps conserver les résultats d'analyses de laboratoire ?",
+   "reponse": "5 ans minimum",
+   "faux": [
+    "2 ans minimum",
+    "1 an minimum",
+    "10 ans minimum"
+   ],
+   "explication": "Sans limite en cas de maladie chronique."
+  },
+  {
+   "id": "classement-et-archivage-10",
+   "cat": "cours",
+   "module": "Classement et archivage",
+   "question": "Combien de temps conserver une facture d'hôpital public ?",
+   "reponse": "4 ans",
+   "faux": [
+    "2 ans",
+    "5 ans",
+    "10 ans"
+   ],
+   "explication": "Facture de clinique privée : 2 ans."
+  },
+  {
+   "id": "classement-et-archivage-11",
+   "cat": "cours",
+   "module": "Classement et archivage",
+   "question": "Durée maximale de conservation des documents administratifs et comptables ?",
+   "reponse": "10 ans",
+   "faux": [
+    "5 ans",
+    "20 ans",
+    "30 ans"
+   ]
+  },
+  {
+   "id": "classement-et-archivage-12",
+   "cat": "cours",
+   "module": "Classement et archivage",
+   "question": "Quelles sont les 3 premières étapes de la GED ?",
+   "reponse": "Numérisation, indexation, classement",
+   "faux": [
+    "Classement, archivage, diffusion",
+    "Indexation, recherche, numérisation",
+    "Numérisation, diffusion, archivage"
+   ],
+   "explication": "Puis recherche, diffusion et partage, archivage."
+  },
+  {
+   "id": "classement-et-archivage-13",
+   "cat": "cours",
+   "module": "Classement et archivage",
+   "question": "Quel nom de fichier respecte les règles de nommage ?",
+   "reponse": "2026-10-08_MARTIN_Julie_CR_cardiologie_v2.pdf",
+   "faux": [
+    "CR cardio Mme Martin (version finale).pdf",
+    "08/10/2026 Martin Julie compte-rendu.pdf",
+    "MARTIN_Julie_CR_cardiologie_définitif.pdf"
+   ],
+   "explication": "Date au format AAAA-MM-JJ, pas d'espace, pas d'accent, pas de caractère spécial, version indiquée."
+  },
+  {
+   "id": "classement-et-archivage-14",
+   "cat": "cours",
+   "module": "Classement et archivage",
+   "question": "Comment se débarrasse-t-on d'un document avec des données personnelles ?",
+   "reponse": "Par une destruction sécurisée, après avoir vérifié la procédure",
+   "faux": [
+    "Dans la poubelle de recyclage du papier, avec les autres",
+    "En le déchirant en morceaux avant de le jeter",
+    "En le rendant au patient, sans en garder de trace"
+   ]
+  },
+  {
+   "id": "classement-et-archivage-15",
+   "cat": "cours",
+   "module": "Classement et archivage",
+   "question": "Quand faudra-t-il pouvoir émettre des factures électroniques ?",
+   "reponse": "Septembre 2027",
+   "faux": [
+    "Septembre 2026",
+    "Janvier 2026",
+    "Janvier 2028"
+   ],
+   "explication": "Septembre 2026 : être capable d'en recevoir."
+  },
+  {
+   "id": "compte-rendu-medical-01",
+   "cat": "cours",
+   "module": "Compte rendu médical",
+   "question": "Quelle est la qualité principale d'un compte rendu médical ?",
+   "reponse": "La fiabilité",
+   "faux": [
+    "La rapidité",
+    "La concision",
+    "La présentation"
+   ],
+   "explication": "Une erreur grave peut affecter la prise en charge du patient."
+  },
+  {
+   "id": "compte-rendu-medical-02",
+   "cat": "cours",
+   "module": "Compte rendu médical",
+   "question": "Une ordonnance bizone sert à distinguer…",
+   "reponse": "Les soins liés à l'ALD des autres soins",
+   "faux": [
+    "Les médicaments remboursés des non remboursés",
+    "Les adultes des enfants",
+    "Les prescriptions de ville et d'hôpital"
+   ]
+  },
+  {
+   "id": "compte-rendu-medical-03",
+   "cat": "cours",
+   "module": "Compte rendu médical",
+   "question": "Le SAMA trouve une information illisible dans un compte rendu. Que fait-il ?",
+   "reponse": "Il consulte le professionnel de santé",
+   "faux": [
+    "Il la complète d'après le contexte",
+    "Il la supprime du document",
+    "Il la laisse telle quelle et transmet"
+   ],
+   "explication": "Je ne devine pas, je signale, je demande confirmation."
+  },
+  {
+   "id": "compte-rendu-medical-04",
+   "cat": "cours",
+   "module": "Compte rendu médical",
+   "question": "Combien de rubriques compte un compte rendu ?",
+   "reponse": "8",
+   "faux": [
+    "5",
+    "6",
+    "10"
+   ],
+   "explication": "Identification, date, contexte, observations, conclusion, conduite à tenir, validation, transmission."
+  },
+  {
+   "id": "compte-rendu-medical-05",
+   "cat": "cours",
+   "module": "Compte rendu médical",
+   "question": "Dans quelle rubrique place-t-on une date de contrôle ou une demande d'examen ?",
+   "reponse": "La conduite à tenir",
+   "faux": [
+    "La conclusion",
+    "Le contexte",
+    "Les observations"
+   ]
+  },
+  {
+   "id": "compte-rendu-medical-06",
+   "cat": "cours",
+   "module": "Compte rendu médical",
+   "question": "Que signifie le mnémo IDTTFT ?",
+   "reponse": "Identification, dates, transcription, terminologie, forme, transmission",
+   "faux": [
+    "Identité, diagnostic, traitement, terminologie, format, traçabilité",
+    "Identification, données, tri, transcription, forme, tampon",
+    "Identité, dates, tarif, transmission, forme, terminologie"
+   ],
+   "explication": "Ce sont les 6 contrôles du compte rendu."
+  },
+  {
+   "id": "compte-rendu-medical-07",
+   "cat": "cours",
+   "module": "Compte rendu médical",
+   "question": "Que fait le SAMA d'un compte rendu avant de le transmettre ?",
+   "reponse": "Il attend l'aval du professionnel de santé",
+   "faux": [
+    "Il l'envoie dès qu'il est relu",
+    "Il le fait signer par le patient",
+    "Il le transmet et prévient le médecin ensuite"
+   ]
+  },
+  {
+   "id": "compte-rendu-medical-08",
+   "cat": "cours",
+   "module": "Compte rendu médical",
+   "question": "Le SAMA peut-il reformuler une phrase médicale pour la rendre plus claire ?",
+   "reponse": "Non, il ne change jamais le sens médical",
+   "faux": [
+    "Oui, si le sens reste proche",
+    "Oui, s'il prévient le médecin après",
+    "Oui, pour les comptes rendus destinés au patient"
+   ],
+   "explication": "Il transcrit, met en forme, vérifie la cohérence formelle et signale les difficultés."
+  },
+  {
+   "id": "compte-rendu-medical-09",
+   "cat": "cours",
+   "module": "Compte rendu médical",
+   "question": "Comment écoute-t-on une dictée numérique ?",
+   "reponse": "Par séquences courtes : pause, réécoute, transcription sans deviner",
+   "faux": [
+    "D'une traite, puis on transcrit tout de mémoire",
+    "En accéléré, pour gagner du temps sur la journée",
+    "En transcrivant en même temps, sans mettre en pause"
+   ]
+  },
+  {
+   "id": "compte-rendu-medical-10",
+   "cat": "cours",
+   "module": "Compte rendu médical",
+   "question": "Dans quel ordre fait-on la relecture en 2 temps ?",
+   "reponse": "D'abord le contenu, puis la forme et la transmission",
+   "faux": [
+    "D'abord la forme, puis le contenu",
+    "Les deux en même temps, deux fois",
+    "D'abord la transmission, puis l'orthographe"
+   ]
+  },
+  {
+   "id": "compte-rendu-medical-11",
+   "cat": "cours",
+   "module": "Compte rendu médical",
+   "question": "Lequel n'est PAS une des 7 règles professionnelles du compte rendu ?",
+   "reponse": "Compléter une information manquante si on la connaît",
+   "faux": [
+    "Contrôler noms, dates, chiffres et unités",
+    "Respecter le modèle de la structure",
+    "Faire valider le contenu médical par le pro compétent"
+   ],
+   "explication": "Règle n°1 : ne jamais inventer une information manquante."
   }
  ]
 }

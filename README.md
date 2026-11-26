@@ -1,6 +1,6 @@
 # Révisions SAMA
 
-Petite appli web pour réviser le Titre Pro SAMA : terminologie médicale (préfixes, racines, suffixes, vocabulaire) et questions de cours (14 modules, 174 QCM).
+Petite appli web pour réviser le Titre Pro SAMA : terminologie médicale (préfixes, racines, suffixes, vocabulaire) et questions de cours (20 modules, 245 QCM).
 
 - **QCM** : 4 propositions, les mauvaises réponses sont tirées de la même catégorie et jamais d'un terme de sens équivalent (Macro- et Méga- ne sont pas opposés l'un à l'autre).
 - **Flashcards** : on réfléchit, on retourne la carte, on dit soi-même « su » ou « pas su ».
